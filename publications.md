@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Publications
-description: 
+description:
 ---
 
-## Welcome to another page
+# Referred Journal Publications
 
-_yay_
 
 [back](./)

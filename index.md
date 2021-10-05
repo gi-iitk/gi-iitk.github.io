@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Geoinformatics
+# [![image1](/assets/img/google_scholar.png)]Geoinformatics
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).

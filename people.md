@@ -34,6 +34,6 @@ Technical Superintendent &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&em
 
 ![image1](/assets/img/Shitla.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;![image1](/assets/img/vipul.png)<br>
 Shitla Prasad Tripathi &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Vipul Sharma<br>
-Sr. Technician &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Jr. Technician<br>
+Sr. Technician &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Jr. Technician<br>
 
 [back](./)

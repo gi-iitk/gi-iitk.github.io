@@ -15,7 +15,7 @@ Ph.D. (University of Cambridge) &emsp; &emsp; Ph.D. (Ohio State University)<br>
 
 ![image1](/assets/img/Blohani.png) &emsp; &emsp; ![image1](/assets/img/salil_goel.png)<br>
 **Dr. Bharat Lohani &emsp; &emsp; Dr. Salil Goel**<br>
-Ph.D. (University of Reading) &emsp; &emsp; Ph.D. (University of Melbourne & IIT Kanpur - Joint)<br>
+Ph.D. (University of Reading) &emsp; &emsp; Ph.D. (University of Melbourne & IIT Kanpur - MIPA)<br>
 
 ![image1](/assets/img/Balaji.png)
 **Dr. Balaji Devaraju**<br>

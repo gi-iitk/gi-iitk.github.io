@@ -6,21 +6,27 @@ description:
 
 # Academics
 The Geoinformatics Laboratory offers a large number of postgraduate courses in diverse areas ranging from Geodesy and Global Navigation Satellite Systems (GNSS) to Light Detection and Ranging (LiDAR). The complete list of courses is given here.
-###### Header 6
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-| First semester                                         | Second semester|
-|:-------------------------------------------------------|:------------------|
-|Adjustment Computation for Geoinformatics-I             |
-|Reference Frames, Coordinate Systems and Map Projections| good swedish fish |
-|Geodetic Astronomy and Introduction to Satellite Geodesy| good and plenty   |
-|Physical Geodesy                                        | good `oreos`      |
-|Introduction to Remote Sensing                          | good `zoute` drop |
+### Courses offered in the first (odd) semester
+* Adjustment Computation for Geoinformatics-I
+* Reference Frames, Coordinate Systems and Map Projections
+* Geodetic Astronomy and Introduction to Satellite Geodesy
+* Physical Geodesy
+* Introduction to Remote Sensing
+
+### Courses offered in the second (even) semester
+* Survey Camp (Instrumentation and Field practices in Geoinformatics)
+* Adjustment computations-II
+* Introduction to Global Navigation Satellite Systems (GNSS)
+* Global Navigation Satellite Systems (GNSS) for Surveying and Mapping
+* Introduction to Inertial and Multi-Sensor Navigation
+* Machine Processing of Remotely Sensed Data
+* Geographical Information System (GIS)
+* Photogrammetry and LiDAR
+* Environmental Geodesy
+* Signal processing on Sphere
+
+* * *
 # Admissions
 Admissions are offered in M.Tech and PhD programs by Geoinformatics Laboratory, Department of Civil Engineering. For information regarding bachelor programs, please [click here](https://www.iitk.ac.in/ce/b-tech-program-in-civil-engineering).
 

@@ -18,7 +18,7 @@ Ph.D. (University of Cambridge) &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;Ph.D. (O
 Ph.D. (University of Reading) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;Ph.D. (University of Melbourne & IIT Kanpur)<br>
 
 ![image1](/assets/img/Balaji.png)<br>
-**Dr. Balaji Devaraju**<br>
+**[Dr. Balaji Devaraju](http://home.iitk.ac.in/~dbalaji/)**<br>
 Ph.D. (University of Stuttgart)<br>
 * * *
 ## Technical Staff

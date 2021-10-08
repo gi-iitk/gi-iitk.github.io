@@ -13,14 +13,10 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 **Dr. Onkar Dikshit &emsp; &emsp; Maj. Gen. (Dr.) B. Nagarajan**<br>
 Ph.D. (University of Cambridge) &emsp; &emsp; Ph.D. (Ohio State University)<br>
 
+![image1](/assets/img/Blohani.png) &emsp; &emsp; ![image1](/assets/img/salil_goel.png)<br>
+**Dr. Bharat Lohani &emsp; &emsp; Dr. Salil Goel**<br>
+Ph.D. (University of Reading) &emsp; &emsp; Ph.D. (University of Melbourne & IIT Kanpur - Joint)<br>
 
-
-![image1](/assets/img/Blohani.png)
-**Dr. Bharat Lohani**<br>
-Ph.D. (Uniersity of Reading)<br>
-![image1](/assets/img/salil_goel.png)
-**Dr. Salil Goel**<br>
-Ph.D. (University of Melbourne & IIT Kanpur - Joint)<br>
 ![image1](/assets/img/Balaji.png)
 **Dr. Balaji Devaraju**<br>
 Ph.D. (University of Stuttgart)<br>

@@ -6,6 +6,7 @@ description:
 
 # Academics
 The Geoinformatics Laboratory offers a large number of postgraduate courses in diverse areas ranging from Geodesy and Global Navigation Satellite Systems (GNSS) to Light Detection and Ranging (LiDAR). The complete list of courses is given here.
+###### Header 6
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |

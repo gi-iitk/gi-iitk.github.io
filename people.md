@@ -9,12 +9,12 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 
 * * *
 ## Faculty Members
-![image1](/assets/img/onkar-dikshit.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;![image1](/assets/img/nagarajan.png)<br>
+![image1](/assets/img/onkar-dikshit.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; ![image1](/assets/img/nagarajan.png)<br>
 **Dr. Onkar Dikshit &emsp; &emsp; &emsp;&emsp; &emsp;Maj. Gen. (Dr.) B. Nagarajan**<br>
 Ph.D. (University of Cambridge) &emsp; &emsp; &emsp;&emsp; &emsp; Ph.D. (Ohio State University)<br>
 
-![image1](/assets/img/Blohani.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;! ![image1](/assets/img/salil_goel.png)<br>
-**Dr. Bharat Lohani &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;! Dr. Salil Goel**<br>
+![image1](/assets/img/Blohani.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; ![image1](/assets/img/salil_goel.png)<br>
+**Dr. Bharat Lohani &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; Dr. Salil Goel**<br>
 Ph.D. (University of Reading) &emsp; &emsp; Ph.D. (University of Melbourne & IIT Kanpur - MIPA)<br>
 
 ![image1](/assets/img/Balaji.png)<br>

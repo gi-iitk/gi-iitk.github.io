@@ -15,7 +15,7 @@ Ph.D. (University of Cambridge) &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;Ph.D. (O
 
 ![image1](/assets/img/Blohani.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; ![image1](/assets/img/salil_goel.png)<br>
 **Dr. Bharat Lohani &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; Dr. Salil Goel**<br>
-Ph.D. (University of Reading) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp;&ndsp;Ph.D. (University of Melbourne & IIT Kanpur)<br>
+Ph.D. (University of Reading) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp;&nbsp;Ph.D. (University of Melbourne & IIT Kanpur)<br>
 
 ![image1](/assets/img/Balaji.png)<br>
 **Dr. Balaji Devaraju**<br>

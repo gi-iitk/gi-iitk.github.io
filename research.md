@@ -109,41 +109,5 @@ _Duration:_ 2011 <br>
 3.	_Title:_ Hydro Power reservoir survey using laser scanning for THDC at Piplakoti <br>
 _Sponsoring Organization:_ THDC	<br>
 _Duration:_ 2010-2011 <br>
-<!--
-
-4. _Title:_ Topographic mapping and industry planning for four industrial sites of State Industrial Development Corporation Uttrakhand (SIDCUL) in Kumoun <br>
-_Sponsoring Organization:_ SIDCUL	<br>
-_Duration:_ 2009-2010 <br>
-
-5. _Title:_ Boundary survey for UPSIDC for determining area of plot <br>
-_Sponsoring Organization:_ UPSIDC	<br>
-_Duration:_ 2010 <br>
-
-6. _Title:_ Topographic mapping and campus information system development on WebGIS for Dr. Hari Singh Gaur Vishwvidhyalaya, Sagar <br>
-_Sponsoring Organization:_ Sagar University	<br>
-_Duration:_ 2009-2010 <br>
-
-7. _Title:_ Station Yard surveying project using laser scanning at Jammu and Kashmir for railway line <br>
-_Sponsoring Organization:_ IRCON	<br>
-_Duration:_ 2009-2010 <br>
-
-8.	_Title:_ 1x 32 MW 90m high Chimney structural measurement for verticality and other parameters at Hosepet, Karnataka <br>
-_Sponsoring Organization:_ Tecpro Infrastructure Pvt Ltd. <br>
-_Duration:_ 2009-2010 <br>
-
-9.	_Title:_ Digital documentation of Ajatha and Ellora caves-Pilot study <br>
-_Sponsoring Organization:_ ASI-Aurengabad <br>
-_Duration:_ 2009 <br>
-
-10. _Title:_ River modelling using DGPS and Total Station for Ghaghara River <br>
-_Sponsoring Organization:_ ASI-Aurengabad <br>
-_Duration:_ 2009 <br>
- 	UPPWD	2009
-11.	Verticality check of 220m high Chimney using laser scanning at Parichcha 	UPRVUNL	2009
-12.	3D modelling of few areas in Mumbai using laser scanning 	Genesys International	2009
-13.	3D modelling of Bhitoor temple using terrestrial laser scanning-pilot project 	ASI-Lucknow	2008
-14.	Advisory Services to Genesys International Corporation for laser mobile services 	Genesys International	2008
-15.	Development of algorithm for extraction of tidal channels from hyperspectral data and aerial photographs of Venice Lagoon  	University of Padua, Italy and University of Reading, UK	2003-2004
-16.	River training work at three stretches between Varanasi and Allahabad on River Ganges	IWAI-->
 
 [back](./)

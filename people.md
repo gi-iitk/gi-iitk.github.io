@@ -37,7 +37,7 @@ Tel: +91-512 679 7722  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&em
 ![image1](/assets/img/Shitla.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;![image1](/assets/img/vipul.png)<br>
 Shitla Prasad Tripathi &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Vipul Sharma<br>
 Sr. Technician &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jr. Technician<br>
-Email: [shitla@iitk.ac.in](mailto:shitla@iitk.ac.in) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;&nbsp; Email: [svipul@iitk.ac.in](mailto:svipul@iitk.ac.in)<br>
+Email: [shitla@iitk.ac.in](mailto:shitla@iitk.ac.in) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;Email: [svipul@iitk.ac.in](mailto:svipul@iitk.ac.in)<br>
 Tel: +91-512 679 7722  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;Tel: +91-512 679 7722<br>
 
 [back](./)

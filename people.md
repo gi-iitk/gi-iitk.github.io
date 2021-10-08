@@ -18,7 +18,7 @@ Tel: +91-512 679 7937  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&em
 ![image1](/assets/img/Blohani.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; ![image1](/assets/img/salil_goel.png)<br>
 **[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&ensp;&ensp;[Dr. Salil Goel](https://sgoel-web.github.io)**<br>
 Ph.D. (University of Reading) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&ensp;&ensp;Ph.D. (University of Melbourne & IIT Kanpur)<br>
-Email: [blohani@iitk.ac.in](mailto:blohani@iitk.ac.in) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&ensp; Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)<br>
+Email: [blohani@iitk.ac.in](mailto:blohani@iitk.ac.in) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp; Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)<br>
 Tel: +91-512 679 7413  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Tel: +91-512 679 6179<br>
 
 ![image1](/assets/img/Balaji.png)<br>

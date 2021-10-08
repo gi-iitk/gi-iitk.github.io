@@ -24,14 +24,14 @@ Notes:
 *	The GATE requirement is waived for the B.Tech. graduates from IITs with a minimum overall CPI of 6.5 and a minimum CPI of 8.0 in the last two semesters in B.Tech.  However, such students are not entitled to Institute Assistantship if overall CPI is below 8.0.
 *	Candidates with AMIE certificates are not eligible to apply.
 
-##Eligibility Requirements for Ph.D Programme
+## Eligibility Requirements for Ph.D Programme
 
 The applicant must have a master's degree in engineering with marks/CPI not below 55% marks (or CPI of 5.5 on a 10-point scale) or the minimum pass marks (or CPI) whichever is greater. Candidates belonging to the Scheduled Castes/Scheduled Tribes who have a master's degree in engineering are eligible to apply irrespective of the marks/CPI. Candidates with a bachelor's degree in engineering with marks/CPI not below 75% marks (or CPI of 7.5 on a 10-point scale), or a master's degree in science or an allied area, satisfying each of the following criteria may be considered for admission into the Ph.D. programme:
 
 *	A minimum of 65 percent marks/6.5 CPI in the master's degree
 *	First division in  bachelor's degree
 *	JRF/95 percentile or higher in GATE. However, a valid GATE score is needed for the candidates with a bachelor's degree in engineering, if they have not graduated from a CFTI (centrally funded technical institute).
-*	M.Tech./M.E. degree in Civil/Mining/Electrical/Computer Science/Electronics Engineering/Information Technology, or M.Tech./M.Sc. degree in Earth Science streams/Geography/Physics/Mathematics/Environmental Sciences. Candidates with M.Sc. degree must have mathematics as one of the subjects at B.Sc. level. 
+*	M.Tech./M.E. degree in Civil/Mining/Electrical/Computer Science/Electronics Engineering/Information Technology, or M.Tech./M.Sc. degree in Earth Science streams/Geography/Physics/Mathematics/Environmental Sciences. Candidates with M.Sc. degree must have mathematics as one of the subjects at B.Sc. level.
 
 
 [back](./)

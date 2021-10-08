@@ -10,6 +10,8 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 * * *
 ## Faculty Members
 ![image1](/assets/img/onkar-dikshit.png)
+Dr. Onkar Dikshit<br>
+Ph.D. (University of Cambridge)<br>
 ![image1](/assets/img/nagarajan.png)
 ![image1](/assets/img/Blohani.png)
 ![image1](/assets/img/salil_goel.png)

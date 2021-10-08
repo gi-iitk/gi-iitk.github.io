@@ -27,7 +27,7 @@ Ram Kewal Maurya &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;Hari 
 Technical Superintendent &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;Jr. Technical Superintendent<br>
 
 ![image1](/assets/img/Shitla.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;![image1](/assets/img/vipul.png)<br>
-Shitla Prasad Tripathi &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;Vipul Sharma
+Shitla Prasad Tripathi &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;Vipul Sharma<br>
 Sr. Technician &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;Jr. Technician<br>
 
 [back](./)

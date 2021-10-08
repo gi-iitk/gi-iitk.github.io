@@ -9,7 +9,7 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 
 * * *
 ## Faculty Members
-
+![image1](/assets/img/salil_goel.png)
 * * *
 ## Technical Staff
 

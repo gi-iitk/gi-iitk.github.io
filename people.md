@@ -4,8 +4,13 @@ title: People
 description:
 ---
 
-## Welcome to another page
+# Members of GI Laboratory
+The laboratory comprises of 5 faculty members working in diverse areas, 4 technical staff members, more than 50 students (M.Tech and PhD).
 
-_yay_
+* * *
+## Faculty Members
+
+* * *
+## Technical Staff
 
 [back](./)

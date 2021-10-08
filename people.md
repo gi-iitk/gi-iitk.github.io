@@ -29,7 +29,7 @@ Tel: +91-512 679 2047
 * * *
 ## Technical Staff
 ![image1](/assets/img/maurya.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;![image1](/assets/img/harib.png)<br>
-**Ram Kewal Maurya** &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;**Hari Babu Prajapti**<br>
+**Ram Kewal Maurya** &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;**Hari Babu Prajapti**<br>
 Technical Superintendent &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Jr. Technical Superintendent<br>
 Email: [maurya@iitk.ac.in](mailto:maurya@iitk.ac.in) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; Email: [harib@iitk.ac.in](mailto:harib@iitk.ac.in)<br>
 Tel: +91-512 679 7722  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;Tel: +91-512 679 7722<br>

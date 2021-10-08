@@ -17,12 +17,12 @@ Email: [onkar@iitk.ac.in](mailto:onkar@iitk.ac.in) Email: [nagaraj@iitk.ac.in](m
 ![image1](/assets/img/Blohani.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; ![image1](/assets/img/salil_goel.png)<br>
 **[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&ensp;&ensp;[Dr. Salil Goel](https://sgoel-web.github.io)**<br>
 Ph.D. (University of Reading) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&ensp;&ensp;Ph.D. (University of Melbourne & IIT Kanpur)<br>
-Email: [blohani@iitk.ac.in](mailto:blohani@iitk.ac.in) Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)
+Email: [blohani@iitk.ac.in](mailto:blohani@iitk.ac.in) Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)<br>
 
 ![image1](/assets/img/Balaji.png)<br>
 **[Dr. Balaji Devaraju](http://home.iitk.ac.in/~dbalaji/)**<br>
 Ph.D. (University of Stuttgart)<br>
-Email: [dbalaji@iitk.ac.in](mailto:dbalaji@iitk.ac.in)
+Email: [dbalaji@iitk.ac.in](mailto:dbalaji@iitk.ac.in)<br>
 * * *
 ## Technical Staff
 ![image1](/assets/img/maurya.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;![image1](/assets/img/harib.png)<br>

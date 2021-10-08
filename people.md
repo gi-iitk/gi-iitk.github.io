@@ -22,5 +22,12 @@ Ph.D. (University of Reading) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &e
 Ph.D. (University of Stuttgart)<br>
 * * *
 ## Technical Staff
+![image1](/assets/img/maurya.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;![image1](/assets/img/harib.png)<br>
+Ram Kewal Maurya &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;Hari Babu Prajapti<br>
+Technical Superintendent &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;Jr. Technical Superintendent<br>
+
+![image1](/assets/img/Shitla.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp;![image1](/assets/img/vipul.png)<br>
+Shitla Prasad Tripathi &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;Vipul Sharma
+Sr. Technician &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;Jr. Technician<br>
 
 [back](./)

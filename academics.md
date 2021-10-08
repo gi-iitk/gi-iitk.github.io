@@ -7,6 +7,13 @@ description:
 # Academics
 The Geoinformatics Laboratory offers a large number of postgraduate courses in diverse areas ranging from Geodesy and Global Navigation Satellite Systems (GNSS) to Light Detection and Ranging (LiDAR). The complete list of courses is given here.
 
+| First semester       | Second semester|
+|:-------------|:------------------|
+|Adjustment Computation for Geoinformatics-I             |
+|Reference Frames, Coordinate Systems and Map Projections| good swedish fish |
+|Geodetic Astronomy and Introduction to Satellite Geodesy| good and plenty   |
+|Physical Geodesy          | good `oreos`      |
+|Introduction to Remote Sensing           | good `zoute` drop |
 # Admissions
 Admissions are offered in M.Tech and PhD programs by Geoinformatics Laboratory, Department of Civil Engineering. For information regarding bachelor programs, please [click here](https://www.iitk.ac.in/ce/b-tech-program-in-civil-engineering).
 

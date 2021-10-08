@@ -11,8 +11,8 @@ The Geoinformatics Laboratory offers a large number of postgraduate courses in d
 * Adjustment Computation for Geoinformatics-I
 * Reference Frames, Coordinate Systems and Map Projections
 * Geodetic Astronomy and Introduction to Satellite Geodesy
-* Physical Geodesy
-* Introduction to Remote Sensing
+* Physical Geodesy [Elective - 1]
+* Introduction to Remote Sensing [Elective - 1]
 
 ### Courses offered in the second (even) semester
 * Survey Camp (Instrumentation and Field practices in Geoinformatics)
@@ -20,11 +20,11 @@ The Geoinformatics Laboratory offers a large number of postgraduate courses in d
 * Introduction to Global Navigation Satellite Systems (GNSS)
 * Global Navigation Satellite Systems (GNSS) for Surveying and Mapping
 * Introduction to Inertial and Multi-Sensor Navigation
-* Machine Processing of Remotely Sensed Data
-* Geographical Information System (GIS)
-* Photogrammetry and LiDAR
-* Environmental Geodesy
-* Signal processing on Sphere
+* Machine Processing of Remotely Sensed Data [Elective - 2]
+* Geographical Information System (GIS) [Elective - 2]
+* Photogrammetry and LiDAR [Elective - 2]
+* Environmental Geodesy [Elective - 2]
+* Signal processing on Sphere [Elective - 2]
 
 * * *
 # Admissions

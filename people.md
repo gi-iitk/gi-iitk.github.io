@@ -10,7 +10,7 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 * * *
 ## Faculty Members
 ![image1](/assets/img/onkar-dikshit.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;![image1](/assets/img/nagarajan.png)<br>
-**Dr. Onkar Dikshit &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;Maj. Gen. (Dr.) B. Nagarajan**<br>
+**[Dr. Onkar Dikshit](http://home.iitk.ac.in/~onkar/) &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;Maj. Gen. (Dr.) B. Nagarajan**<br>
 Ph.D. (University of Cambridge) &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;Ph.D. (Ohio State University)<br>
 
 ![image1](/assets/img/Blohani.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; ![image1](/assets/img/salil_goel.png)<br>

@@ -14,7 +14,7 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 Ph.D. (University of Cambridge) &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;Ph.D. (Ohio State University)<br>
 
 ![image1](/assets/img/Blohani.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; ![image1](/assets/img/salil_goel.png)<br>
-**[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;[Dr. Salil Goel](https://sgoel-web.github.io)**<br>
+**[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;[Dr. Salil Goel](https://sgoel-web.github.io)**<br>
 Ph.D. (University of Reading) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;Ph.D. (University of Melbourne & IIT Kanpur)<br>
 
 ![image1](/assets/img/Balaji.png)<br>

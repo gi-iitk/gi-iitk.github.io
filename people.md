@@ -15,14 +15,10 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 </colgroup>
 <thead>
 <tr class="header">
-<th>Field</th>
-<th>Description</th>
+<th colspan="2">Faculty Members</th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td markdown="span" colspan="2">**Faculty Members**</td>
-</tr>
 <tr>
 <td markdown="span">![image1](/assets/img/onkar-dikshit.png)</td>
 <td markdown="span">![image1](/assets/img/nagarajan.png)</td>
@@ -107,9 +103,6 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 </tr>
 </thead>
 <tbody>
-<tr>
-<td markdown="span" colspan="2">**Technical Staff**</td>
-</tr>
 <tr>
 <td markdown="span">![image1](/assets/img/maurya.png)</td>
 <td markdown="span">![image1](/assets/img/harib.png)</td>

@@ -195,6 +195,84 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
 <td markdown="span">THDC</td>
 <td markdown="span">2010-2011</td>
 </tr>
+<tr>
+<td markdown="span">4.</td>
+<td markdown="span">Topographic mapping and industry planning for four industrial sites of State Industrial Development Corporation Uttrakhand (SIDCUL) in Kumoun</td>
+<td markdown="span">SIDCUL</td>
+<td markdown="span">2009-2010</td>
+</tr>
+<tr>
+<td markdown="span">5.</td>
+<td markdown="span">Boundary survey for UPSIDC for determining area of plot </td>
+<td markdown="span">UPSIDC</td>
+<td markdown="span">2010</td>
+</tr>
+<tr>
+<td markdown="span">6.</td>
+<td markdown="span">Topographic mapping and campus information system development on WebGIS for Dr. Hari Singh Gaur Vishwvidhyalaya, Sagar </td>
+<td markdown="span">Sagar University</td>
+<td markdown="span">2009-2010</td>
+</tr>
+<tr>
+<td markdown="span">7.</td>
+<td markdown="span">Station Yard surveying project using laser scanning at Jammu and Kashmir for railway line </td>
+<td markdown="span">IRCON</td>
+<td markdown="span">2009-2010</td>
+</tr>
+<tr>
+<td markdown="span">8.</td>
+<td markdown="span">1x 32 MW 90m high Chimney structural measurement for verticality and other parameters at Hosepet, Karnataka</td>
+<td markdown="span">Tecpro Infrastructure Pvt Ltd.</td>
+<td markdown="span">2009-2010</td>
+</tr>
+<tr>
+<td markdown="span">9.</td>
+<td markdown="span">Digital documentation of Ajatha and Ellora caves-Pilot study</td>
+<td markdown="span">ASI-Aurengabad</td>
+<td markdown="span">2009</td>
+</tr>
+<tr>
+<td markdown="span">10.</td>
+<td markdown="span">River modelling using DGPS and Total Station for Ghaghara River</td>
+<td markdown="span">UPPWD</td>
+<td markdown="span">2009</td>
+</tr>
+<tr>
+<td markdown="span">11.</td>
+<td markdown="span">Verticality check of 220m high Chimney using laser scanning at Parichcha </td>
+<td markdown="span">UPRVUNL</td>
+<td markdown="span">2009</td>
+</tr>
+<tr>
+<td markdown="span">12.</td>
+<td markdown="span">3D modelling of few areas in Mumbai using laser scanning </td>
+<td markdown="span">Genesys International</td>
+<td markdown="span">2009</td>
+</tr>
+<tr>
+<td markdown="span">13.</td>
+<td markdown="span">3D modelling of Bhitoor temple using terrestrial laser scanning-pilot project</td>
+<td markdown="span">ASI-Lucknow</td>
+<td markdown="span">2008</td>
+</tr>
+<tr>
+<td markdown="span">14.</td>
+<td markdown="span">Advisory Services to Genesys International Corporation for laser mobile services</td>
+<td markdown="span">Genesys International</td>
+<td markdown="span">2008</td>
+</tr>
+<tr>
+<td markdown="span">15.</td>
+<td markdown="span">Development of algorithm for extraction of tidal channels from hyperspectral data and aerial photographs of Venice Lagoon  </td>
+<td markdown="span">University of Padua, Italy and University of Reading, UK</td>
+<td markdown="span">2003-2004</td>
+</tr>
+<tr>
+<td markdown="span">16.</td>
+<td markdown="span">River training work at three stretches between Varanasi and Allahabad on River Ganges</td>
+<td markdown="span">IWAI</td>
+<td markdown="span"></td>
+</tr>
 </tbody>
 </table>
 

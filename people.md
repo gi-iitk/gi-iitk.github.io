@@ -14,16 +14,10 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 <col width="30%" />
 <col width="70%" />
 </colgroup>
-<thead>
-<tr class="header">
-<th>Field</th>
-<th>Description</th>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">![image1](/assets/img/onkar-dikshit.png)</td>
+<td markdown="span">![image1](/assets/img/nagarajan.png)</td>
 </tr>
 <tr>
 <td markdown="span">Second column **fields**</td>

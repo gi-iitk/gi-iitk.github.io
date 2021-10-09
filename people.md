@@ -9,7 +9,7 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 
 * * *
 ## Faculty Members
-<table bordercolor="#FFFFFF">
+<table border="5" bordercolor="#ff0000">
 <colgroup>
 <col width="50%" />
 <col width="70%" />

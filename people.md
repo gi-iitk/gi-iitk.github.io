@@ -8,7 +8,6 @@ description:
 The laboratory comprises of 5 faculty members working in diverse areas, 4 technical staff members and more than 50 students (M.Tech and PhD).
 
 * * *
-## Faculty Members
 <table border="0" bordercolor="#ff0000">
 <colgroup>
 <col width="50%" />

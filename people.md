@@ -63,13 +63,38 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 <td markdown="span">Tel: +91-512 679 6179
 </td>
 </tr>
+<tr>
+<td markdown="span">![image1](/assets/img/Balaji.png)</td>
+<td markdown="span">
+</td>
+</tr>
+<tr>
+<td markdown="span">**[Dr. Balaji Devaraju](http://home.iitk.ac.in/~dbalaji/)**</td>
+<td markdown="span">
+</td>
+</tr>
+<tr>
+<td markdown="span">Ph.D. (University of Stuttgart)</td>
+<td markdown="span">
+</td>
+</tr>
+<tr>
+<td markdown="span">Email: [dbalaji@iitk.ac.in](mailto:dbalaji@iitk.ac.in)</td>
+<td markdown="span">
+</td>
+</tr>
+<tr>
+<td markdown="span">Tel: +91-512 679 2047</td>
+<td markdown="span">
+</td>
+</tr>
 </tbody>
 </table>
-![image1](/assets/img/Balaji.png)<br>
-**[Dr. Balaji Devaraju](http://home.iitk.ac.in/~dbalaji/)**<br>
-Ph.D. (University of Stuttgart)<br>
-Email: [dbalaji@iitk.ac.in](mailto:dbalaji@iitk.ac.in)<br>
-Tel: +91-512 679 2047
+<br>
+<br>
+<br>
+<br>
+
 * * *
 ## Technical Staff
 ![image1](/assets/img/maurya.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;![image1](/assets/img/harib.png)<br>

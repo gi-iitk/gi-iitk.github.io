@@ -8,11 +8,17 @@ description:
 The laboratory comprises of 5 faculty members working in diverse areas, 4 technical staff members and more than 50 students (M.Tech and PhD).
 
 * * *
-<table border="0" bordercolor="#ff0000">
+<table>
 <colgroup>
 <col width="50%" />
 <col width="70%" />
 </colgroup>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td markdown="span" colspan="2">**Faculty Members**</td>
@@ -94,6 +100,14 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 <tr>
 <td markdown="span" colspan="2"></td>
 </tr>
+</tbody>
+<thead>
+<tr class="header">
+<th>Field</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
 <tr>
 <td markdown="span" colspan="2">**Technical Staff**</td>
 </tr>

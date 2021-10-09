@@ -24,7 +24,7 @@ The Geoinformatics Laboratory offers a large number of postgraduate courses in d
 </tr>
 <tr>
 <td markdown="span">Reference Frames, Coordinate Systems and Map Projections</td>
-<td markdown="span">Adjustment computations-II
+<td markdown="span">Adjustment Computation for Geoinformatics-II
 </td>
 </tr>
 <tr>

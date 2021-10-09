@@ -47,7 +47,7 @@ Ph.D. (University of Cambridge)
 **[Dr. Onkar Dikshit](http://home.iitk.ac.in/~onkar/) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&ensp;&nbsp;Maj. Gen. (Dr.) B. Nagarajan**<br>
 Ph.D. (University of Cambridge) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&ensp;Ph.D. (Ohio State University)<br>
 Email: [onkar@iitk.ac.in](mailto:onkar@iitk.ac.in) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Email: [nagaraj@iitk.ac.in](mailto:nagaraj@iitk.ac.in)<br>
-Tel: +91-512 679 7937  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;Tel: +91-512 679 7435<br>
+Tel: +91-512 679 7937  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;Tel: +91-512 679 7435<br>-->
 
 ![image1](/assets/img/Blohani.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; ![image1](/assets/img/salil_goel.png)<br>
 **[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&ensp;&ensp;[Dr. Salil Goel](https://sgoel-web.github.io)**<br>

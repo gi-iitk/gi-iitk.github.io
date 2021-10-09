@@ -17,7 +17,7 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
 </colgroup>
 <thead>
 <tr class="header">
-<th>S. No</th>
+<th>S.No.</th>
 <th>Project Title</th>
 <th>Sponsoring Org.</th>
 <th>Duration</th>
@@ -60,32 +60,53 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
 <td markdown="span">DRDO</td>
 <td markdown="span">2011-2012</td>
 </tr>
+<tr>
+<td markdown="span">7.</td>
+<td markdown="span">Monitoring of permanent GPS station at IIT Kanpur</td>
+<td markdown="span">MOES</td>
+<td markdown="span">2009-2012</td>
+</tr>
+<tr>
+<td markdown="span">8.</td>
+<td markdown="span">3D imaging of naval targets and development of image visualisation algorithm and software</td>
+<td markdown="span">DRDO</td>
+<td markdown="span">2009-2011</td>
+</tr>
+<tr>
+<td markdown="span">9.</td>
+<td markdown="span">Active Tectonic Investigations around South-middle Andaman and Car-Nicobar Islands</td>
+<td markdown="span">INCOIS</td>
+<td markdown="span">2008-2011</td>
+</tr>
+<tr>
+<td markdown="span">10.</td>
+<td markdown="span">Nationally coordinated project: The Future of the Past: Application of Science and Technology for the study, preservation and dissemination of cultural heritage of India</td>
+<td markdown="span">AICTE</td>
+<td markdown="span">2007-2010</td>
+</tr>
+<tr>
+<td markdown="span">11.</td>
+<td markdown="span">Remote Sensing & Archaeological  investigations for the interpretation of the growth of the holy city of Varanasi</td>
+<td markdown="span">DST</td>
+<td markdown="span">2007-2010</td>
+</tr>
+<tr>
+<td markdown="span">12.</td>
+<td markdown="span">Mathematical modelling of flood inundation area due to tsunami by using resolution altimetric LiDAR data under the GIS environment</td>
+<td markdown="span">DST</td>
+<td markdown="span">2006-2010</td>
+</tr>
 </tbody>
 </table>
 
-<!--7.  _Title:_ Monitoring of permanent GPS station at IIT Kanpur <br>
-_Sponsoring Organization:_ MOES <br>
-_Duration:_ 2009-2012 <br>
+<!--
+11.	_Title:_  <br>
+_Sponsoring Organization:_  <br>
+_Duration:_  <br>
 
-8.  _Title:_ 3D imaging of naval targets and development of image visualisation algorithm and software <br>
-_Sponsoring Organization:_ DRDO <br>
-_Duration:_ 2009-2011 <br>  
-
-9. _Title:_ Active Tectonic Investigations around South-middle Andaman and Car-Nicobar Islands <br>
-_Sponsoring Organization:_ INCOIS <br>
-_Duration:_ 2008-2011 <br>
-
-10. _Title:_ Nationally coordinated project: The Future of the Past: Application of Science and Technology for the study, preservation and dissemination of cultural heritage of India <br>
-_Sponsoring Organization:_ AICTE <br>
-_Duration:_ 2007-2010 <br>
-
-11.	_Title:_ Remote Sensing & Archaeological  investigations for the interpretation of the growth of the holy city of Varanasi <br>
-_Sponsoring Organization:_ DST <br>
-_Duration:_ 2007-2010 <br>
-
-12.	_Title:_ Mathematical modelling of flood inundation area due to tsunami by using resolution altimetric LiDAR data under the GIS environment <br>
-_Sponsoring Organization:_ DST <br>
-_Duration:_ 2006-2010 <br>
+12.	_Title:_  <br>
+_Sponsoring Organization:_  <br>
+_Duration:_  <br>
 
 13.	_Title:_ Airborne altimetric LiDAR sensor: Comprehensive accuracy analysis through field verification and mathematical modelling <br>
 _Sponsoring Organization:_ ISRO <br>

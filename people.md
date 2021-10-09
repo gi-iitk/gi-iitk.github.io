@@ -12,7 +12,7 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 <table>
 <colgroup>
 <col width="60%" />
-<col width="65%" />
+<col width="70%" />
 </colgroup>
 <tbody>
 <tr>

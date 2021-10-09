@@ -45,8 +45,8 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 </td>
 </tr>
 <tr>
-<td markdown="span">**[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/)</td>
-<td markdown="span">[Dr. Salil Goel](https://sgoel-web.github.io)**
+<td markdown="span">**[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/)**</td>
+<td markdown="span">**[Dr. Salil Goel](https://sgoel-web.github.io)**
 </td>
 </tr>
 <tr>

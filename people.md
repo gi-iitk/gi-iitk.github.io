@@ -15,10 +15,8 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 <col width="70%" />
 </colgroup>
 <tbody>
-<tr>
 <td markdown="span">![image1](/assets/img/onkar-dikshit.png)</td>
 <td markdown="span">![image1](/assets/img/nagarajan.png)</td>
-</tr>
 <tr>
 <td markdown="span">**[Dr. Onkar Dikshit](http://home.iitk.ac.in/~onkar/)**</td>
 <td markdown="span">**Maj. Gen. (Dr.) B. Nagarajan**</td>

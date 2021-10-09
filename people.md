@@ -105,7 +105,7 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 <td markdown="span">![image1](/assets/img/harib.png)</td>
 </tr>
 <tr>
-<td markdown="span">**Ram Kewal Maurya**&enmp;&enmp;</td>
+<td markdown="span">**Ram Kewal Maurya**&ensp;&ensp;</td>
 <td markdown="span">**Hari Babu Prajapti**
 </td>
 </tr>

@@ -11,7 +11,7 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 ## Faculty Members
 <table>
 <colgroup>
-<col width="60%" />
+<col width="50%" />
 <col width="70%" />
 </colgroup>
 <tbody>
@@ -39,15 +39,33 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 <td markdown="span">Tel: +91-512 679 7435
 </td>
 </tr>
+<tr>
+<td markdown="span">![image1](/assets/img/Blohani.png)</td>
+<td markdown="span">![image1](/assets/img/salil_goel.png)
+</td>
+</tr>
+<tr>
+<td markdown="span">**[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/)</td>
+<td markdown="span">[Dr. Salil Goel](https://sgoel-web.github.io)**
+</td>
+</tr>
+<tr>
+<td markdown="span">Ph.D. (University of Reading)</td>
+<td markdown="span">Ph.D. (University of Melbourne & IIT Kanpur)
+</td>
+</tr>
+<tr>
+<td markdown="span">Email: [blohani@iitk.ac.in](mailto:blohani@iitk.ac.in)</td>
+<td markdown="span">Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)
+</td>
+</tr>
+<tr>
+<td markdown="span">Tel: +91-512 679 7413</td>
+<td markdown="span">Tel: +91-512 679 6179
+</td>
+</tr>
 </tbody>
 </table>
-
-![image1](/assets/img/Blohani.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; ![image1](/assets/img/salil_goel.png)<br>
-**[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&ensp;&ensp;[Dr. Salil Goel](https://sgoel-web.github.io)**<br>
-Ph.D. (University of Reading) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&ensp;&ensp;Ph.D. (University of Melbourne & IIT Kanpur)<br>
-Email: [blohani@iitk.ac.in](mailto:blohani@iitk.ac.in) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp; Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)<br>
-Tel: +91-512 679 7413  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Tel: +91-512 679 6179<br>
-
 ![image1](/assets/img/Balaji.png)<br>
 **[Dr. Balaji Devaraju](http://home.iitk.ac.in/~dbalaji/)**<br>
 Ph.D. (University of Stuttgart)<br>

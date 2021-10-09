@@ -89,17 +89,11 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 <td markdown="span">
 </td>
 </tr>
-</tbody>
-</table>
-
-* * *
-## Technical Staff
-<table bordercolor="#FFFFFF">
-<colgroup>
-<col width="50%" />
-<col width="70%" />
-</colgroup>
-<tbody>
+<tr>
+<td markdown="span"><h2>Technical Staff</h2></td>
+<td markdown="span">
+</td>
+</tr>
 <tr>
 <td markdown="span">![image1](/assets/img/maurya.png)</td>
 <td markdown="span">![image1](/assets/img/harib.png)</td>

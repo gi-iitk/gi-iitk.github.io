@@ -30,31 +30,38 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
 <td markdown="span">MHRD</td>
 <td markdown="span">2014-2018</td>
 </tr>
+<tr>
+<td markdown="span">2.</td>
+<td markdown="span">Paleoseismic and GPS studies for active fault mapping and slip rate estimation in NW-Central Himalaya, India</td>
+<td markdown="span">Multi-Institutional International project with JICA</td>
+<td markdown="span">2010-2015</td>
+</tr>
+<tr>
+<td markdown="span">3.</td>
+<td markdown="span">3D City modelling using LiDAR data</td>
+<td markdown="span">DRDO</td>
+<td markdown="span">2012-2013</td>
+</tr>
+<tr>
+<td markdown="span">4.</td>
+<td markdown="span">Developing standards for airborne LiDAR data capture</td>
+<td markdown="span">DST</td>
+<td markdown="span">2012-2013</td>
+</tr>
+<tr>
+<td markdown="span">5.</td>
+<td markdown="span">Technology development for motion correction during laser scanning</td>
+<td markdown="span">DRDO</td>
+<td markdown="span">2012-2012</td>
+</tr>
+<tr>
+<td markdown="span">6.</td>
+<td markdown="span">3D imaging of strategic target for LCS measurement</td>
+<td markdown="span">DRDO</td>
+<td markdown="span">2011-2012</td>
+</tr>
 </tbody>
 </table>
-1. _Title:_ Establishment of National Facility for Application of Science & Technology in Archaeology and Cultural Resource Management (CRM) <br>
-_Sponsoring Organization:_ MHRD	<br>
-_Duration:_ 2014-2018
-
-2. _Title:_ Paleoseismic and GPS studies for active fault mapping and slip rate estimation in NW-Central Himalaya, India <br> 	
-_Sponsoring Organization:_ Multi-Institutional International project with JICA <br>
-_Duration:_ 2010-2015
-
-3. _Title:_ 3D City modelling using LiDAR data <br>
-_Sponsoring Organization:_ DRDO <br>
-_Duration:_ 2012-2013 <br>
-
-4. _Title:_ Developing standards for airborne LiDAR data capture <br>
-_Sponsoring Organization:_ DST <br>
-_Duration:_ 2012-2013 <br>
-
-5. _Title:_ Technology development for motion correction during laser scanning <br>
-_Sponsoring Organization:_ DRDO <br>
-_Duration:_ 2012-2012 <br> 		
-
-6.  _Title:_ 3D imaging of strategic target for LCS measurement <br>
-_Sponsoring Organization:_ DRDO <br>
-_Duration:_ 2011-2012 <br>
 
 <!--7.  _Title:_ Monitoring of permanent GPS station at IIT Kanpur <br>
 _Sponsoring Organization:_ MOES <br>

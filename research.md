@@ -11,7 +11,7 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
 <table>
 <colgroup>
 <col width="10%" />
-<col width="30%" />
+<col width="40%" />
 <col width="30%" />
 <col width="30%" />
 </colgroup>

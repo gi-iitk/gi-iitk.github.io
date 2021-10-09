@@ -10,13 +10,15 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 * * *
 ## Faculty Members
 <table>
+<table style="border-collapse: collapse; border: none;">
 <colgroup>
 <col width="50%" />
 <col width="70%" />
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span">![image1](/assets/img/onkar-dikshit.png)</td>
+<tr style="border: none;">
+<td markdown="span">![image1](/assets/img/onkar-dikshit.png)<td style="border: none;"></td>
 <td markdown="span">![image1](/assets/img/nagarajan.png)</td>
 </tr>
 <tr>

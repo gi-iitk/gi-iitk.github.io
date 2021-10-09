@@ -91,23 +91,65 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 </tr>
 </tbody>
 </table>
-<br>
-<br>
-<br>
-<br>
 
 * * *
 ## Technical Staff
-![image1](/assets/img/maurya.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;![image1](/assets/img/harib.png)<br>
-**Ram Kewal Maurya** &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;**Hari Babu Prajapti**<br>
-Technical Superintendent &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Jr. Technical Superintendent<br>
-Email: [maurya@iitk.ac.in](mailto:maurya@iitk.ac.in) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; Email: [harib@iitk.ac.in](mailto:harib@iitk.ac.in)<br>
-Tel: +91-512 679 7722  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;Tel: +91-512 679 7722<br>
-
-![image1](/assets/img/Shitla.png) &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;![image1](/assets/img/vipul.png)<br>
-**Shitla Prasad Tripathi** &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;**Vipul Sharma**<br>
-Sr. Technician &emsp; &emsp; &emsp;&emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jr. Technician<br>
-Email: [shitla@iitk.ac.in](mailto:shitla@iitk.ac.in) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&emsp;Email: [svipul@iitk.ac.in](mailto:svipul@iitk.ac.in)<br>
-Tel: +91-512 679 7722  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;Tel: +91-512 679 7722<br>
+<table bordercolor="#FFFFFF">
+<colgroup>
+<col width="50%" />
+<col width="70%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span">![image1](/assets/img/maurya.png)</td>
+<td markdown="span">![image1]![image1](/assets/img/harib.png)</td>
+</tr>
+<tr>
+<td markdown="span">**Ram Kewal Maurya**</td>
+<td markdown="span">**Hari Babu Prajapti**
+</td>
+</tr>
+<tr>
+<td markdown="span">Technical Superintendent</td>
+<td markdown="span">Jr. Technical Superintendent
+</td>
+</tr>
+<tr>
+<td markdown="span">Email: [maurya@iitk.ac.in](mailto:maurya@iitk.ac.in)</td>
+<td markdown="span">Email: [harib@iitk.ac.in](mailto:harib@iitk.ac.in)
+</td>
+</tr>
+<tr>
+<td markdown="span">Tel: +91-512 679 7722</td>
+<td markdown="span">Tel: +91-512 679 7722
+</td>
+</tr>
+<tr>
+<td markdown="span">![image1](/assets/img/Shitla.png)</td>
+<td markdown="span">![image1](/assets/img/vipul.png)
+</td>
+</tr>
+<tr>
+<td markdown="span">**Shitla Prasad Tripathi**</td>
+<td markdown="span">**Vipul Sharma**
+</td>
+</tr>
+<tr>
+<td markdown="span">Sr. Technician</td>
+<td markdown="span">Jr. Technician
+</td>
+</tr>
+<tr>
+<td markdown="span">Email: [shitla@iitk.ac.in](mailto:shitla@iitk.ac.in)</td>
+<td markdown="span">Email: [svipul@iitk.ac.in](mailto:svipul@iitk.ac.in)
+</td>
+</tr>
+<tr>
+<td markdown="span">Tel: +91-512 679 7722</td>
+<td markdown="span">Tel: +91-512 679 7722
+</td>
+</tr>
+</tbody>
+</table>
 
 [back](./)

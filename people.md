@@ -15,7 +15,7 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span";colspan="2";style='text-align:center>**Faculty Members**</td>
+<td markdown="span" colspan="2">**Faculty Members**</td>
 </tr>
 <tr>
 <td markdown="span">![image1](/assets/img/onkar-dikshit.png)</td>

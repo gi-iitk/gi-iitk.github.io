@@ -91,7 +91,6 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 </tr>
 <tr>
 <td markdown="span">Technical Staff</td>
-<td markdown="span">
 </td>
 </tr>
 <tr>

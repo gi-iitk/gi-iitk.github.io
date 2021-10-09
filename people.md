@@ -20,8 +20,9 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 <td markdown="span">![image1](/assets/img/nagarajan.png)</td>
 </tr>
 <tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
+<td markdown="span">**[Dr. Onkar Dikshit](http://home.iitk.ac.in/~onkar/)</td>
+<td markdown="span">SMaj. Gen. (Dr.) B. Nagarajan**<br>
+Ph.D. (University of Cambridge)
 </td>
 </tr>
 </tbody>

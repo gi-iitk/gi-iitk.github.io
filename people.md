@@ -21,20 +21,22 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 </tr>
 <tr>
 <td markdown="span">**[Dr. Onkar Dikshit](http://home.iitk.ac.in/~onkar/)**</td>
-<td markdown="span">**Maj. Gen. (Dr.) B. Nagarajan**<br>
-Ph.D. (University of Cambridge)
+<td markdown="span">**Maj. Gen. (Dr.) B. Nagarajan**
+</td>
+</tr>
+<tr>
+<td markdown="span">Ph.D. (University of Cambridge)</td>
+<td markdown="span">Ph.D. (University of Ohio)
 </td>
 </tr>
 <tr>
 <td markdown="span">Email: [onkar@iitk.ac.in](mailto:onkar@iitk.ac.in)</td>
-<td markdown="span">Email: [nagaraj@iitk.ac.in](mailto:nagaraj@iitk.ac.in)<br>
-Ph.D. (University of Cambridge)
+<td markdown="span">Email: [nagaraj@iitk.ac.in](mailto:nagaraj@iitk.ac.in)
 </td>
 </tr>
 <tr>
 <td markdown="span">Tel: +91-512 679 7937</td>
-<td markdown="span">Tel: +91-512 679 7435<br>
-Ph.D. (University of Cambridge)
+<td markdown="span">Tel: +91-512 679 7435
 </td>
 </tr>
 </tbody>

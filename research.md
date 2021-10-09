@@ -8,7 +8,30 @@ description:
 Geoinformatics Laboratory, IIT Kanpur has been contributing to the national development and international scientific community by carrying out original research and development in various areas. Various consultancy and sponsored research projects undertaken by the laboratory (in the last 10 years) are listed here.<br>
 * * *
 ## Sponsored Research Projects
-
+<table>
+<colgroup>
+<col width="10%" />
+<col width="30%" />
+<col width="30%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>S. No</th>
+<th>Project Title</th>
+<th>Sponsoring Org.</th>
+<th>Duration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">1.</td>
+<td markdown="span">Establishment of National Facility for Application of Science & Technology in Archaeology and Cultural Resource Management (CRM)</td>
+<td markdown="span">MHRD</td>
+<td markdown="span">2014-2018</td>
+</tr>
+</tbody>
+</table>
 1. _Title:_ Establishment of National Facility for Application of Science & Technology in Archaeology and Cultural Resource Management (CRM) <br>
 _Sponsoring Organization:_ MHRD	<br>
 _Duration:_ 2014-2018

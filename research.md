@@ -153,7 +153,7 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
 <tr>
 <td markdown="span">22.</td>
 <td markdown="span">International Program for Sustainable Infrastructure Development	Obama-Singh 21st Century Knowledge Initiative Grant</td>
-<td markdown="span">UGC/td>
+<td markdown="span">UGC</td>
 <td markdown="span"></td>
 </tr>
 </tbody>

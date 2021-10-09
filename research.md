@@ -161,17 +161,41 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
 
 * * *
 ## Consultancy Projects
-
-1.  _Title:_ LiDAR and Photographic data acquisition specifications <br>
-_Sponsoring Organization:_ NGRI-CSIR	<br>
-_Duration:_ 2012 <br>
-
-2. _Title:_ 3D modeling of landslides and stone shooting sites on the route from Katra to Mata Vaishno Devi Shrine using laser scanning <br>
-_Sponsoring Organization:_ SMVDSB/ THDC	<br>
-_Duration:_ 2011 <br>
-
-3.	_Title:_ Hydro Power reservoir survey using laser scanning for THDC at Piplakoti <br>
-_Sponsoring Organization:_ THDC	<br>
-_Duration:_ 2010-2011 <br>
+<table>
+<colgroup>
+<col width="10%" />
+<col width="50%" />
+<col width="30%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>S.No.</th>
+<th>Project Title</th>
+<th>Sponsoring Org.</th>
+<th>Duration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">1.</td>
+<td markdown="span">LiDAR and Photographic data acquisition specifications</td>
+<td markdown="span">NGRI-CSIR</td>
+<td markdown="span">2012</td>
+</tr>
+<tr>
+<td markdown="span">2.</td>
+<td markdown="span">3D modeling of landslides and stone shooting sites on the route from Katra to Mata Vaishno Devi Shrine using laser scanning</td>
+<td markdown="span">SMVDSB/ THDC</td>
+<td markdown="span">2011</td>
+</tr>
+<tr>
+<td markdown="span">3.</td>
+<td markdown="span">Hydro Power reservoir survey using laser scanning for THDC at Piplakoti</td>
+<td markdown="span">THDC</td>
+<td markdown="span">2010-2011</td>
+</tr>
+</tbody>
+</table>
 
 [back](./)

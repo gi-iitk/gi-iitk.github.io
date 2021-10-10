@@ -67,52 +67,31 @@ Tel: +91-512 679 2047
 </thead>
 <tbody>
 <tr>
-<td markdown="span">![image1](/assets/img/maurya.png)</td>
-<td markdown="span">![image1](/assets/img/harib.png)</td>
-</tr>
-<tr>
-<td markdown="span">**Ram Kewal Maurya**&ensp;&ensp;</td>
-<td markdown="span">**Hari Babu Prajapti**
+<td markdown="span">![image1](/assets/img/maurya.png)<br>
+**Ram Kewal Maurya**<br>
+Technical Superintendent<br>
+Email: [maurya@iitk.ac.in](mailto:maurya@iitk.ac.in)<br>
+Tel: +91-512 679 7722
+</td>
+<td markdown="span">![image1](/assets/img/harib.png)<br>
+**Hari Babu Prajapti**<br>
+Jr. Technical Superintendent<br>
+Email: [harib@iitk.ac.in](mailto:harib@iitk.ac.in)<br>
+Tel: +91-512 679 7722
 </td>
 </tr>
 <tr>
-<td markdown="span">Technical Superintendent</td>
-<td markdown="span">Jr. Technical Superintendent
+<td markdown="span">![image1](/assets/img/Shitla.png)<br>
+**Shitla Prasad Tripathi**<br>
+Sr. Technician<br>
+Email: [shitla@iitk.ac.in](mailto:shitla@iitk.ac.in)<br>
+Tel: +91-512 679 7722
 </td>
-</tr>
-<tr>
-<td markdown="span">Email: [maurya@iitk.ac.in](mailto:maurya@iitk.ac.in)</td>
-<td markdown="span">Email: [harib@iitk.ac.in](mailto:harib@iitk.ac.in)
-</td>
-</tr>
-<tr>
-<td markdown="span">Tel: +91-512 679 7722</td>
-<td markdown="span">Tel: +91-512 679 7722
-</td>
-</tr>
-<tr>
-<td markdown="span">![image1](/assets/img/Shitla.png)</td>
-<td markdown="span">![image1](/assets/img/vipul.png)
-</td>
-</tr>
-<tr>
-<td markdown="span">**Shitla Prasad Tripathi**</td>
-<td markdown="span">**Vipul Sharma**
-</td>
-</tr>
-<tr>
-<td markdown="span">Sr. Technician</td>
-<td markdown="span">Jr. Technician
-</td>
-</tr>
-<tr>
-<td markdown="span">Email: [shitla@iitk.ac.in](mailto:shitla@iitk.ac.in)</td>
-<td markdown="span">Email: [svipul@iitk.ac.in](mailto:svipul@iitk.ac.in)
-</td>
-</tr>
-<tr>
-<td markdown="span">Tel: +91-512 679 7722</td>
-<td markdown="span">Tel: +91-512 679 7722
+<td markdown="span">![image1](/assets/img/vipul.png)<br>
+**Vipul Sharma**<br>
+Jr. Technician<br>
+Email: [svipul@iitk.ac.in](mailto:svipul@iitk.ac.in)<br>
+Tel: +91-512 679 7722
 </td>
 </tr>
 </tbody>

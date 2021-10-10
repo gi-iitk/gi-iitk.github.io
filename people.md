@@ -49,7 +49,7 @@ Tel: +91-512 679 6179
 </td>
 </tr>
 <tr>
-<td markdown="span">![image1](/assets/img/Balaji.png)<br>
+<td markdown="span" colspan="2">![image1](/assets/img/Balaji.png)<br>
 **[Dr. Balaji Devaraju](http://home.iitk.ac.in/~dbalaji/)**<br>
 Ph.D. (University of Stuttgart)<br>
 Email: [dbalaji@iitk.ac.in](mailto:dbalaji@iitk.ac.in)<br>

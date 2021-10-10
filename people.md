@@ -20,7 +20,12 @@ The laboratory comprises of 5 faculty members working in diverse areas, 4 techni
 </thead>
 <tbody>
 <tr>
-<td markdown="span">![image1](/assets/img/onkar-dikshit.png)</td>
+<td markdown="span">![image1](/assets/img/onkar-dikshit.png)<br>
+**[Dr. Onkar Dikshit](http://home.iitk.ac.in/~onkar/)**<br>
+Ph.D. (University of Cambridge)<br>
+Email: [onkar@iitk.ac.in](mailto:onkar@iitk.ac.in)<br>
+Tel: +91-512 679 7937
+</td>
 <td markdown="span">![image1](/assets/img/nagarajan.png)</td>
 </tr>
 <tr>

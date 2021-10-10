@@ -97,7 +97,7 @@ Tel: +91-512 679 7722
 </tbody>
 </table>
 
-The complete list of PhD students currently enrolled in the laboratory at IIT Kanpur can be found [here](./Phd_students.html).
+The complete list of **PhD students** currently enrolled in the laboratory at IIT Kanpur can be found [here](./Phd_students.html).
 
 
 [back](./)

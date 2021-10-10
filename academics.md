@@ -72,7 +72,7 @@ The Geoinformatics Laboratory offers a large number of postgraduate courses in d
 
 * * *
 # Admissions
-Admissions are offered in M.Tech and PhD programs by Geoinformatics Laboratory, Department of Civil Engineering. For information regarding bachelor programs, please [click here](https://www.iitk.ac.in/ce/b-tech-program-in-civil-engineering).
+Admissions are offered in M.Tech and PhD programs by Geoinformatics Laboratory, Department of Civil Engineering. For information regarding the bachelor program, please [click here](https://www.iitk.ac.in/ce/b-tech-program-in-civil-engineering) and for details about the dual degree program, please [click here](https://www.iitk.ac.in/ce/dual-degree-programme-admissions).
 
 ## M.Tech Admission
 

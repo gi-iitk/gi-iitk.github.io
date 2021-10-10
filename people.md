@@ -26,76 +26,34 @@ Ph.D. (University of Cambridge)<br>
 Email: [onkar@iitk.ac.in](mailto:onkar@iitk.ac.in)<br>
 Tel: +91-512 679 7937
 </td>
-<td markdown="span">![image1](/assets/img/nagarajan.png)</td>
-</tr>
-<tr>
-<td markdown="span">**[Dr. Onkar Dikshit](http://home.iitk.ac.in/~onkar/)**</td>
-<td markdown="span">**Maj. Gen. (Dr.) B. Nagarajan**
+<td markdown="span">![image1](/assets/img/nagarajan.png)<br>
+**Maj. Gen. (Dr.) B. Nagarajan**<br>
+Ph.D. (University of Ohio)<br>
+Email: [nagaraj@iitk.ac.in](mailto:nagaraj@iitk.ac.in)<br>
+Tel: +91-512 679 7435
 </td>
 </tr>
 <tr>
-<td markdown="span">Ph.D. (University of Cambridge)</td>
-<td markdown="span">Ph.D. (University of Ohio)
+<tr>
+<td markdown="span">![image1](/assets/img/Blohani.png)<br>
+**[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/)**<br>
+Ph.D. (University of Reading)<br>
+Email: [blohani@iitk.ac.in](mailto:blohani@iitk.ac.in)<br>
+Tel: +91-512 679 7413
+</td>
+<td markdown="span">![image1](/assets/img/salil_goel.png)<br>
+**[Dr. Salil Goel](https://sgoel-web.github.io)**<br>
+Ph.D. (University of Melbourne & IIT Kanpur)<br>
+Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)<br>
+Tel: +91-512 679 6179
 </td>
 </tr>
 <tr>
-<td markdown="span">Email: [onkar@iitk.ac.in](mailto:onkar@iitk.ac.in)</td>
-<td markdown="span">Email: [nagaraj@iitk.ac.in](mailto:nagaraj@iitk.ac.in)
-</td>
-</tr>
-<tr>
-<td markdown="span">Tel: +91-512 679 7937</td>
-<td markdown="span">Tel: +91-512 679 7435
-</td>
-</tr>
-<tr>
-<td markdown="span">![image1](/assets/img/Blohani.png)</td>
-<td markdown="span">![image1](/assets/img/salil_goel.png)
-</td>
-</tr>
-<tr>
-<td markdown="span">**[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/)**</td>
-<td markdown="span">**[Dr. Salil Goel](https://sgoel-web.github.io)**
-</td>
-</tr>
-<tr>
-<td markdown="span">Ph.D. (University of Reading)</td>
-<td markdown="span">Ph.D. (University of Melbourne & IIT Kanpur)
-</td>
-</tr>
-<tr>
-<td markdown="span">Email: [blohani@iitk.ac.in](mailto:blohani@iitk.ac.in)</td>
-<td markdown="span">Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)
-</td>
-</tr>
-<tr>
-<td markdown="span">Tel: +91-512 679 7413</td>
-<td markdown="span">Tel: +91-512 679 6179
-</td>
-</tr>
-<tr>
-<td markdown="span">![image1](/assets/img/Balaji.png)</td>
-<td markdown="span">
-</td>
-</tr>
-<tr>
-<td markdown="span">**[Dr. Balaji Devaraju](http://home.iitk.ac.in/~dbalaji/)**</td>
-<td markdown="span">
-</td>
-</tr>
-<tr>
-<td markdown="span">Ph.D. (University of Stuttgart)</td>
-<td markdown="span">
-</td>
-</tr>
-<tr>
-<td markdown="span">Email: [dbalaji@iitk.ac.in](mailto:dbalaji@iitk.ac.in)</td>
-<td markdown="span">
-</td>
-</tr>
-<tr>
-<td markdown="span">Tel: +91-512 679 2047</td>
-<td markdown="span">
+<td markdown="span">![image1](/assets/img/Balaji.png)<br>
+**[Dr. Balaji Devaraju](http://home.iitk.ac.in/~dbalaji/)**<br>
+Ph.D. (University of Stuttgart)<br>
+Email: [dbalaji@iitk.ac.in](mailto:dbalaji@iitk.ac.in)<br>
+Tel: +91-512 679 2047
 </td>
 </tr>
 <tr>

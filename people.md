@@ -34,7 +34,6 @@ Tel: +91-512 679 7435
 </td>
 </tr>
 <tr>
-<tr>
 <td markdown="span">![image1](/assets/img/Blohani.png)<br>
 **[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/)**<br>
 Ph.D. (University of Reading)<br>

@@ -15,7 +15,7 @@ Phone: (+91) 0512 679 7722/7504
 
 * * *
 ## Follow us on social media:
-[![image4](/assets/img/twitter.png)](https://twitter.com/gi_iitk)
+[![image4](/assets/img/twitter.png)](https://twitter.com/GI_IITK)
 
 * * *
 [back](./)

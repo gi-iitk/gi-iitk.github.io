@@ -7,6 +7,14 @@ description:
 # Referred Publications
 Following is the list of publications from the Geoinformatics Laboratory in the last 5 years.
 
+* Dey, S., Winter, S., Goel, S., and Tomko, M., Identification of Parking Spaces from Multi-Modal Trajectory Data, Transactions in GIS, **2021**.
+
+* Dayal, S., Goel,  S., Lohani, B., Mittal, N., and Mishra, R. K., Comprehensive Airborne Laser Scanning Simulation, Journal of the Indian Society of Remote Sensing, **2021**.
+
+* Retscher, G., Kealy, A., Gikas. V., Gabela, J., Goel, S., Li, Y., Masiero, A., Toth, C., Perakis, H., Blaszczak-Bak, W., Koppanyi, Z., and Brzezinska, D. G., A Benchmarking Measurement Campaign to Support Ubiquitous Localization in GNSS Denied and Indoor Environments, International Association of Geodesy Symposia. Springer, Berlin, Heidelberg, **2020**.
+
+* Yadav, A., Goel, S., Lohani, B. and Singh, S., A UAV Traffic Management System for India: Requirement and Preliminary Analysis, Journal of the Indian Society of Remote Sensing, **2020**.
+
 * Varade, D., Dikshit, O., Singh, G., Manickam, S., Snehmani,	Modelling of Early Winter Snow Density using Fully Polarimetric C-band SAR Data in the Indian Himalayas, Remote Sensing of Environment, **2020**.				
 
 * Varade, D., Singh, G., Dikshit, O., Manickam, S., Identification of Snow using Fully Polarimetric SAR Data based on Entropy and Anisotropy, Water Resources Research, **2020**.				

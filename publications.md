@@ -5,7 +5,7 @@ description:
 ---
 
 # Referred Publications
-The list of publications from the Geoinformatics Laboratory in the last 5 years is given here. The complete list of publications from the group can be found [here](https://scholar.google.com/citations?hl=en&user=n1U-zvkAAAAJ).
+The publications from the Geoinformatics Laboratory in the last 5 years are listed below. The complete list of publications from the group can be found [here](https://scholar.google.com/citations?hl=en&user=n1U-zvkAAAAJ).
 
 * Dey, S., Winter, S., Goel, S., and Tomko, M., Identification of Parking Spaces from Multi-Modal Trajectory Data, Transactions in GIS, **2021**.
 

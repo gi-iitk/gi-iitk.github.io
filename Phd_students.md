@@ -4,7 +4,7 @@ title: PhD students
 description:
 ---
 ## PhD students in Geoinformatics Laboratory
-This is a test to check if it is working.
+
 
 * * *
 <table>
@@ -26,5 +26,3 @@ Email: [ashkat@iitk.ac.in](mailto:ashkat@iitk.ac.in)<br>
 Tel: +91-7905368520
 </td>
 
-
-[back](./)

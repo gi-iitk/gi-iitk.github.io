@@ -35,7 +35,7 @@ Tel: +91-9651804499
 <tr>
 <td markdown="span">![image1](/assets/img/Aswani-Munnangi.jpg)<br>
 **[Aswani Munnangi]**<br>
-Ph.D. (University of Reading)<br>
+Roll No.: 10203062 <br>
 Email: [aswanikm@iitk.ac.in](mailto:aswanikm@iitk.ac.in)<br>
 Tel: +91-8299114924
 </td>

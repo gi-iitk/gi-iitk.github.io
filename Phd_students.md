@@ -9,7 +9,7 @@ description:
 * * *
 <table>
 <colgroup>
-<col width="50%" />
+<col width="70%" />
 <col width="70%" />
 </colgroup>
 <thead>

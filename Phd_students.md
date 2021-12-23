@@ -9,9 +9,10 @@ description:
 * * *
 <table>
 <colgroup>
-<col width="40%" />
-<col width="40%" />
-<col width="40%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -38,20 +39,17 @@ Roll No.: 10203062 <br>
 Email: [aswanikm@iitk.ac.in](mailto:aswanikm@iitk.ac.in)<br>
 Tel: +91-8299114924
 </td>
-</tr>
-<tr>
 <td markdown="span">![image1](/assets/img/ropesh-goyal.jpg)<br>
 **Ropesh Goyal**<br>
 Roll No.: 16103275<br>
 Email: [rupeshg@iitk.ac.in](mailto:rupeshg@iitk.ac.in)<br>
 Tel: +91-7668652952
 </td>
-
+</tr>
+<tr>
 <td markdown="span">![image1](/assets/img/rohit-rajput.jpg)<br>
 **Rohit Rajput**<br>
 Roll No.: 19103282 <br>
 Email: [rrajput@iitk.ac.in](mailto:rrajput@iitk.ac.in)<br>
 Tel: +91-9958243587
 </td>
-</tr>
-<tr>

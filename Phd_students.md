@@ -43,6 +43,7 @@ Roll No.: 16103275<br>
 Email: [rupeshg@iitk.ac.in](mailto:rupeshg@iitk.ac.in)<br>
 Tel: +91-7668652952
 </td>
+</tr>
 <td markdown="span">![image1](/assets/img/rohit-rajput.jpg)<br>
 **Rohit Rajput**<br>
 Roll No.: 19103282 <br>

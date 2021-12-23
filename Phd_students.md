@@ -9,10 +9,10 @@ description:
 * * *
 <table>
 <colgroup>
-<col width="65%" />
-<col width="65%" />
-<col width="65%" />
-<col width="65%" />
+<col width="50%" />
+<col width="50%" />
+<col width="50%" />
+<col width="50%" />
 </colgroup>
 <thead>
 <tr class="header">

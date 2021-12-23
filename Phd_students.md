@@ -12,7 +12,6 @@ description:
 <col width="40%" />
 <col width="40%" />
 <col width="40%" />
-
 </colgroup>
 <thead>
 <tr class="header">

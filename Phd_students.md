@@ -14,7 +14,7 @@ description:
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2">Ph.D Students</th>
+<th colspan="4">Ph.D Students</th>
 </tr>
 </thead>
 <tbody>

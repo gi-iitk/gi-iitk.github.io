@@ -65,7 +65,7 @@ Roll No.: 12103166 <br>
 Email: [naveenr@iitk.ac.in](mailto:naveenr@iitk.ac.in)<br>
 Tel: +91-8765181105
 </td>
-<td markdown="span">![image1](/assets/img/sujata.jpg)<br>
+<td markdown="span">![image1](/assets/img/sujata.png)<br>
 **Sujata Dhar**<br>
 Roll No.: 16103275<br>
 Email: [sujata@iitk.ac.in](mailto:sujata@iitk.ac.in)<br>
@@ -79,7 +79,7 @@ Roll No.: 17103277 <br>
 Email: [milaa@iitk.ac.in](mailto:milaa@iitk.ac.in)<br>
 Tel: +91-9099942741
 </td>
-<td markdown="span">![image1](/assets/img/.jpg)<br>
+<td markdown="span">![image1](/assets/img/prashant.jpg)<br>
 **Prashant Chauhan**<br>
 Roll No.: 19103277 <br>
 Email: [prashc@iitk.ac.in](mailto:prashc@iitk.ac.in)<br>

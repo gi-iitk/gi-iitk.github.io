@@ -94,5 +94,31 @@ Tel: +91-8979197190
 <td markdown="span">![image1](/assets/img/.jpg)<br>
 **Sunil Kumar**<br>
 Roll No.: 19203270<br>
-Email: [sunkmr@iitk.ac.in ](mailto:sunkmr@iitk.ac.in )<br>
+Email: [sunkmr@iitk.ac.in ](mailto:sunkmr@iitk.ac.in)<br>
 Tel: +91-8821848002
+</td>
+</tr>
+<tr>
+<td markdown="span">![image1](/assets/img/.jpg)<br>
+**Prashant Mishra**<br>
+Roll No.: 19103278 <br>
+Email: [mishrap@iitk.ac.in ](mailto:mishrap@iitk.ac.in)<br>
+Tel: +91-8081109179
+</td>
+<td markdown="span">![image1](/assets/img/.jpg)<br>
+**Ashwani kumar**<br>
+Roll No.: 19103266 <br>
+Email: [kashwani@iitk.ac.in](mailto:kashwani@iitk.ac.in)<br>
+Tel: +91-9044253685
+</td>
+<td markdown="span">![image1](/assets/img/.jpg)<br>
+**Rohit Rajput**<br>
+Roll No.: 19103282 <br>
+Email: [rrajput@iitk.ac.in ](mailto:rrajput@iitk.ac.in)<br>
+Tel: +91-9958243587
+</td>
+<td markdown="span">![image1](/assets/img/.jpg)<br>
+**Ibaad Anwar**<br>
+Roll No.: 20203263<br>
+Email: [ibaadanwar20@iitk.ac.in](mailto:ibaadanwar20@iitk.ac.in )<br>
+Tel: +91-9870502403

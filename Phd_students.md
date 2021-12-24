@@ -131,20 +131,23 @@ Roll No.: 19203265 <br>
 Email: [alaha@iitk.ac.in](mailto:alaha@iitk.ac.in)<br>
 Tel: +91-9459771786
 </td>
-<td markdown="span">![image1](/assets/img/.jpg)<br>
-****<br>
-Roll No.:  <br>
-Email: [](mailto:)<br>
-Tel: +91-
+<td markdown="span">![image1](/assets/img/moonis.jpg)<br>
+**Moonis Ali**<br>
+Roll No.:20203266<br>
+Email: [moonisali20@iitk.ac.in](mailto:moonisali20@iitk.ac.in)<br>
+Tel:+91-9027555653
 </td>
-<td markdown="span">![image1](/assets/img/.jpg)<br>
-****<br>
-Roll No.:  <br>
-Email: [](mailto:)<br>
-Tel: +91-XXXXXXXXXX
+<td markdown="span">![image1](/assets/img/vikas.jpg)<br>
+**Vikash Kumar**<br>
+Roll No.:20103306<br>
+Email: [vikas@iitk.ac.in](mailto:vikas@iitk.ac.in)<br>
+Tel:+91-8685843967
 </td>
-<td markdown="span">![image1](/assets/img/.jpg)<br>
-****<br>
-Roll No.: <br>
-Email: [](mailto:)<br>
-Tel: +91-
+<td markdown="span">![image1](/assets/img/surbhi.jpg)<br>
+**Surbhi Barnwal**<br>
+Roll No.:20203273<br>
+Email: [Surbhib20@iitk.ac.in](mailto:Surbhib20@iitk.ac.in)<br>
+Tel:+91-9304005883
+</td>
+</tr>
+<tr>

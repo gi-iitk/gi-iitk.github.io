@@ -29,13 +29,13 @@ Tel: +91-7905368520
 </td>
 <td markdown="span">![image1](/assets/img/Jagadish-Boodala.jpg)<br>
 **Jagadish B**<br>
-Roll No.: 12103165 <br>
+Roll No.: 12103165<br>
 Email: [jagadish@iitk.ac.in](mailto:jagadish@iitk.ac.in)<br>
 Tel: +91-9651804499
 </td>
 <td markdown="span">![image1](/assets/img/Aswani-Munnangi.jpg)<br>
 **Aswani Munnangi**<br>
-Roll No.: 10203062 <br>
+Roll No.: 10203062<br>
 Email: [aswanikm@iitk.ac.in](mailto:aswanikm@iitk.ac.in)<br>
 Tel: +91-8299114924
 </td>

@@ -157,7 +157,7 @@ Roll No.:21103276<br>
 Email: [viveka21@iitk.ac.in](mailto:viveka21@iitk.ac.in)<br>
 Tel:+91-7873888434
 </td>
-<td markdown="span">![image1](/assets/img/moonis.png)<br>
+<td markdown="span">![image1](/assets/img/kaustav.png)<br>
 **Kaustav Saha**<br>
 Roll No.:21103271<br>
 Email: [kaustavs21@iitk.ac.in](mailto:kaustavs21@iitk.ac.in)<br>

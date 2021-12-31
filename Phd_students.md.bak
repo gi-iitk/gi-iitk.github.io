@@ -91,7 +91,7 @@ Roll No.: 19103281 <br>
 Email: [rashmi@iitk.ac.in](mailto:rashmi@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/.jpg)<br>
+<td markdown="span">![image1](/assets/img/Sunil-Kumar.jpg)<br>
 **Sunil Kumar**<br>
 Roll No.: 19203270<br>
 Email: [sunkmr@iitk.ac.in ](mailto:sunkmr@iitk.ac.in)<br>

@@ -53,7 +53,7 @@ Roll No.:19103282 <br>
 Email: [rrajput@iitk.ac.in](mailto:rrajput@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/.jpg)<br>
+<td markdown="span">![image1](/assets/img/sraghav.jpg)<br>
 **Raghavendra Sara**<br>
 Roll No.:12103169 <br>
 Email: [sraghav@iitk.ac.in](mailto:sraghav@iitk.ac.in)<br>

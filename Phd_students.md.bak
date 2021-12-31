@@ -111,7 +111,7 @@ Roll No.: 19103266 <br>
 Email: [kashwani@iitk.ac.in](mailto:kashwani@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/.jpg)<br>
+<td markdown="span">![image1](/assets/img/Digvijay-singh.jpg)<br>
 **Digvijay Singh**<br>
 Roll No.: 19203267 <br>
 Email: [sdigvijy@iitk.ac.in](mailto:sdigvijy@iitk.ac.in)<br>

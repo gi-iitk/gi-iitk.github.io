@@ -105,7 +105,7 @@ Roll No.: 19103278 <br>
 Email: [mishrap@iitk.ac.in](mailto:mishrap@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/.jpg)<br>
+<td markdown="span">![image1](/assets/img/Ashwani-kumar.jpg)<br>
 **Ashwani kumar**<br>
 Roll No.: 19103266 <br>
 Email: [kashwani@iitk.ac.in](mailto:kashwani@iitk.ac.in)<br>

@@ -6,6 +6,7 @@ description:
 
 # Members of Geoinformatics Laboratory
 The laboratory comprises of 5 faculty members working in diverse areas, 4 technical staff members and more than 50 students (M.Tech and PhD).
+The complete list of **PhD students** currently enrolled in the laboratory at IIT Kanpur can be found [here](./Phd_students.html).
 
 * * *
 <table>
@@ -96,6 +97,4 @@ Tel: +91-512 679 7722
 </tr>
 </tbody>
 </table>
-
-The complete list of **PhD students** currently enrolled in the laboratory at IIT Kanpur can be found [here](./Phd_students.html).
 [back](./)

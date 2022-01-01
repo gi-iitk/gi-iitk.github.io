@@ -11,7 +11,7 @@ For any queries related to the Department of Civil Engineering, please [click he
 * * *
 ## Recent updates
 
-* [*2021*] Ropesh Goyal, PhD student has been conferred with Young Geospatial Scientist and Rachapudi Kamakshi Memorial Gold Medal at the recently concluded Geosmart India 2021 conference held at Hyderabad, India.
+* [**2021**] Ropesh Goyal, PhD student has been conferred with Young Geospatial Scientist and Rachapudi Kamakshi Memorial Gold Medal at the recently concluded Geosmart India 2021 conference held at Hyderabad, India.
 
-* [*2021*] A new book titled ["Smart Parking in Fast Growing Cities: Challenges and Solutions"](https://www.tuwien.at/academicpress/en/product/smart-parking-in-fast-growing-cities-ebook/)published by [TU Wien Academic Press](https://www.tuwien.at/academicpress/) under a [SPARC](https://sparc.iitkgp.ac.in/detailpage.php?id=318) project led by [Prof. Salil Goel](https://iitk.ac.in/new/salil-goel) from IIT Kanpur and [Prof. Stephan Winter](https://people.eng.unimelb.edu.au/winter/) from University of Melbourne, Australia, is now available online.
-
+* [**2021**] A new book titled [Smart Parking in Fast Growing Cities: Challenges and Solutions](https://www.tuwien.at/academicpress/en/product/smart-parking-in-fast-growing-cities-ebook/)published by [TU Wien Academic Press](https://www.tuwien.at/academicpress/) under a [SPARC](https://sparc.iitkgp.ac.in/detailpage.php?id=318) project led by [Prof. Salil Goel](https://iitk.ac.in/new/salil-goel) from IIT Kanpur and [Prof. Stephan Winter](https://people.eng.unimelb.edu.au/winter/) from University of Melbourne, Australia, is now available online.
+* * *

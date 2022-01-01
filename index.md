@@ -8,6 +8,12 @@ A National Centre for Geodesy (NCG) has also been setup at IIT Kanpur which acts
 
 For any queries related to the Department of Civil Engineering, please [click here](https://www.iitk.ac.in/ce/contact).
 
+* * *
 # Recent updates
 
 * [2021] Ropesh Goyal, PhD student has been conferred with Young Geospatial Scientist and Rachapudi Kamakshi Memorial Gold Medal at the recently concluded Geosmart India 2021 conference held at Hyderabad, India.
+
+* [2021] A new book titled "**Smart Parking in Fast Growing Cities: Challenges and Solutions**" published by [TU Wien Academic Press](https://www.tuwien.at/academicpress/) is now available online. [Click here to access the book](https://www.tuwien.at/academicpress/en/product/smart-parking-in-fast-growing-cities-ebook/).
+
+This book is the result of a project funded by Government of India, called "_Advanced Parking Information and Management for Indian Traffic_", a collaboration between IIT Kanpur and The University of Melbourne. The project is led by [Prof. Salil Goel](https://iitk.ac.in/new/salil-goel) from IIT Kanpur and [Prof. Stephan Winter](https://people.eng.unimelb.edu.au/winter/) from University of Melbourne, Australia.
+

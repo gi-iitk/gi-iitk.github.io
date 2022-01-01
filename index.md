@@ -7,3 +7,7 @@ Geoinformatics laboratory in the [Department of Civil Engineering](https://www.i
 A National Centre for Geodesy (NCG) has also been setup at IIT Kanpur which acts as the hub of excellence in teaching and research in Geodesy at the national and international level. More details regarding the NCG, IIT Kanpur can be found [here](https://www.iitk.ac.in/ncg/).
 
 For any queries related to the Department of Civil Engineering, please [click here](https://www.iitk.ac.in/ce/contact).
+
+# Recent updates
+
+* [2021] Ropesh Goyal, PhD student has been conferred with Young Geospatial Scientist and Rachapudi Kamakshi Memorial Gold Medal at the recently concluded Geosmart India 2021 conference held at Hyderabad, India.

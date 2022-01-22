@@ -5,7 +5,7 @@ description:
 ---
 
 # Available Facilities
-The laboratory hosts a various instruments, sensors, processing software and computing facilities. All these facilities are available to the students, staff and faculty associated with the laboratory. Some of the instruments and software are listed below.
+The laboratory hosts a number of instruments, sensors, processing software and computing facilities. All these facilities are available to the students, staff and faculty associated with the laboratory. Some of the instruments and software are listed below.
 * LiDAR sensors and Laser scanners: Faro focus 350, RIEGL VZ400, Optech ILRIS, Velodyne VLP-16, RIEGL VZ2000i
 * GNSS sensors: Trimble R10, Trimble R3, Trimble R4 and other hand held GNSS receivers.
 * Auto level and Digital level

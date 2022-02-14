@@ -65,7 +65,7 @@ Roll No.:12103166 <br>
 Email: [naveenr@iitk.ac.in](mailto:naveenr@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/sujata.png)<br>
+<td markdown="span">![image1](/assets/img/sujata.jpg)<br>
 **Sujata Dhar**<br>
 Roll No.:17103284<br>
 Email: [sujata@iitk.ac.in](mailto:sujata@iitk.ac.in)<br>

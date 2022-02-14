@@ -68,7 +68,7 @@ Email: [naveenr@iitk.ac.in](mailto:naveenr@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/sujata.jpg)<br>
 **Sujata Dhar**<br>
 Roll No.:17103284<br>
-Email: [sujata@iitk.ac.in](mailto:sujata@iitk.ac.in)<br>
+Email: [sujata@iitk.ac.in](mailto:  sujata@iitk.ac.in)<br>
 
 </td>
 </tr>
@@ -94,7 +94,7 @@ Email: [rashmi@iitk.ac.in](mailto:rashmi@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/Sunil-Kumar.jpg)<br>
 **Sunil Kumar**<br>
 Roll No.: 19203270<br>
-Email: [sunkmr@iitk.ac.in ](mailto:sunkmr@iitk.ac.in)<br>
+Email: [sunkmr@iitk.ac.in ](mailto:  sunkmr@iitk.ac.in)<br>
 
 </td>
 </tr>

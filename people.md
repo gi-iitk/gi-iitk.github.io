@@ -1,7 +1,7 @@
 ---
 layout: default
 title: People
-description:
+description: Peoples in Geoinformatics Laboratory
 ---
 
 # Members of Geoinformatics Laboratory

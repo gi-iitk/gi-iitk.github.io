@@ -68,7 +68,7 @@ Email: [naveenr@iitk.ac.in](mailto:naveenr@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/sujata.jpg)<br>
 **Sujata Dhar**<br>
 Roll No.:17103284<br>
-Email: [sujata@iitk.ac.in](mailto:  sujata@iitk.ac.in)<br>
+Email: [sujata@iitk.ac.in](mailto:sujata@iitk.ac.in)<br>
 
 </td>
 </tr>

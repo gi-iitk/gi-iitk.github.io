@@ -1,7 +1,8 @@
 ---
 layout: default
 title: M.Tech students
-permalink: /people/M.Tech
+description: Geoinformatics Laboratory
+permalink: /M.Tech/
 ---
 ## M.Tech students in Geoinformatics Laboratory
 Testing

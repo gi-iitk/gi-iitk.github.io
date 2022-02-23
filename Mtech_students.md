@@ -2,7 +2,7 @@
 layout: default
 title: M.Tech students
 description: Geoinformatics Laboratory
-permalink: /https://gi-iitk.github.io/people/M.Tech.html/
+permalink: /https://gi-iitk.github.io/m.tech.html/
 ---
 # M.Tech students in Geoinformatics Laboratory
 <table>

@@ -28,12 +28,6 @@ description:
 Roll No.:12103165<br>
 Email: [jagadish@iitk.ac.in](mailto:jagadish@iitk.ac.in)<br>
 
-</td>
-<td markdown="span">![image1](/assets/img/Aswani-Munnangi.jpg)<br>
-**Aswani Munnangi**<br>
-Roll No.:10203062<br>
-Email: [aswanikm@iitk.ac.in](mailto:aswanikm@iitk.ac.in)<br>
-
 
 </td>
 <td markdown="span">![image1](/assets/img/rohit-rajput.jpg)<br>
@@ -48,14 +42,14 @@ Roll No.:12103169 <br>
 Email: [sraghav@iitk.ac.in](mailto:sraghav@iitk.ac.in)<br>
 
 </td>
-</tr>
-<tr>
 <td markdown="span">![image1](/assets/img/naveen.jpg)<br>
 **Naveen R**<br>
 Roll No.:12103166 <br>
 Email: [naveenr@iitk.ac.in](mailto:naveenr@iitk.ac.in)<br>
 
 </td>
+</tr>
+<tr>
 <td markdown="span">![image1](/assets/img/sujata.jpg)<br>
 **Sujata Dhar**<br>
 Roll No.:17103284<br>
@@ -74,14 +68,14 @@ Roll No.: 19103281 <br>
 Email: [rashmi@iitk.ac.in](mailto:rashmi@iitk.ac.in)<br>
 
 </td>
-</tr>
-<tr>
 <td markdown="span">![image1](/assets/img/Sunil-Kumar.jpg)<br>
 **Sunil Kumar**<br>
 Roll No.: 19203270<br>
 Email: [sunkmr@iitk.ac.in ](mailto:  sunkmr@iitk.ac.in)<br>
 
 </td>
+</tr>
+<tr>
 <td markdown="span">![image1](/assets/img/Ashwani-kumar.jpg)<br>
 **Ashwani kumar**<br>
 Roll No.: 19103266 <br>
@@ -100,14 +94,14 @@ Roll No.: 20203263<br>
 Email: [ibaadanwar20@iitk.ac.in](mailto:ibaadanwar20@iitk.ac.in )<br>
 
 </td>
-</tr>
-<tr>
 <td markdown="span">![image1](/assets/img/Arnab-Laha-2.jpg)<br>
 **Arnab Laha**<br>
 Roll No.: 19203265 <br>
 Email: [alaha@iitk.ac.in](mailto:alaha@iitk.ac.in)<br>
 
 </td>
+</tr>
+<tr>
 <td markdown="span">![image1](/assets/img/moonis.png)<br>
 **Moonis Ali**<br>
 Roll No.:20203266<br>
@@ -126,8 +120,6 @@ Roll No.:20203273<br>
 Email: [Surbhib20@iitk.ac.in](mailto:Surbhib20@iitk.ac.in)<br>
 
 </td>
-</tr>
-<tr>
 <td markdown="span">![image1](/assets/img/vivekanand.png)<br>
 **Vivek Anand**<br>
 Roll No.:21103276<br>

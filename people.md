@@ -11,7 +11,7 @@ The complete list of **PhD students** currently enrolled in the GI laboratory ca
 
 The complete list of **M.Tech students** currently enrolled in the GI laboratory can be found [here](./M.Tech_Students.html).
 
-List of **Alumni** of GI laboratory can be found [here](./Alumni.html).
+The List of **Alumni** of GI laboratory can be found [here](./Alumni.html).
 
 * * *
 <table>

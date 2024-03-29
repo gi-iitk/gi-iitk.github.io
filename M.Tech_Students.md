@@ -139,7 +139,4 @@ Roll No.:231030403<br>
 Email:[jaysuryab23@iitk.ac.in](mailto:jaysuryab23@iitk.ac.in)<br>
 
 </td>
-<td markdown="span"></td>
-<td markdown="span"></td>
-</tr>
 

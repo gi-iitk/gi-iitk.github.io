@@ -9,10 +9,7 @@ description:
 * * *
 <table>
 <colgroup>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
+<col width="100%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -23,9 +20,9 @@ description:
 <tr>
 
 
-<td markdown="span">!<br>
+<td markdown="span"><br>
 **Milaa Zyad Murshan**<br>
 Contact No.:+91-9099942741<br>
 Email: [milaa.murshan@gmail.com](mailto:milaa.murshan@gmail.com)<br>
-LinkedIn Profile:(https://www.linkedin.com/in/milaa-murshan-4a7645147)<br>
+LinkedIn Profile:[https://www.linkedin.com/in/milaa-murshan-4a7645147]<br>
 

@@ -43,7 +43,7 @@ Email: [rithvikl23@iitk.ac.in](mailto:rithvikl23@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/Saize.jpg)<br>
 **Mohammad Saize Ali**<br>
 Roll No.:231030037<br>
-Email:[msaizeali23@iitk.ac.in](mailto:msaizeali23@iitk.ac.in)<br>
+Email: [msaizeali23@iitk.ac.in](mailto:msaizeali23@iitk.ac.in)<br>
 
 </td>
 </tr>

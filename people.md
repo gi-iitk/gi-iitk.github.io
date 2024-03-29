@@ -7,8 +7,11 @@ description: Peoples in Geoinformatics Laboratory
 # Members of Geoinformatics Laboratory
 The laboratory comprises of 5 faculty members working in diverse areas, 4 technical staff members and more than 50 students (M.Tech and PhD).
 
-The complete list of **PhD students** currently enrolled in the laboratory can be found [here](./Phd_students.html).
-The complete list of **Alumni** currently enrolled in the laboratory can be found [here](./Alumni.html).
+The complete list of **PhD students** currently enrolled in the GI laboratory can be found [here](./Phd_students.html).
+
+The complete list of **M.Tech students** currently enrolled in the GI laboratory can be found [here](./M.Tech_Students.html).
+
+List of **Alumni** of GI laboratory can be found [here](./Alumni.html).
 
 * * *
 <table>

@@ -5,9 +5,10 @@ description:
 ---
 
 # Referred Publications
+
 The complete list of publications from the group can be found [here](https://scholar.google.com/citations?hl=en&user=n1U-zvkAAAAJ). The publications from the Geoinformatics Laboratory in the last 5 years are listed below.
 
- <table>
+<table>
 <colgroup>
 <col width="100%" />
 </colgroup>
@@ -17,9 +18,12 @@ The complete list of publications from the group can be found [here](https://sch
 </tr>
 </thead>
 <tbody>
-   
-<td markdown="span">![image1](/assets/img/citations_per_year.jpg)<br>
-
+<tr>
+<td markdown="span">
+![Citations Per Year](/assets/img/citations_per_year.jpg)<br>
 
 [back](./)
-s
+</td>
+</tr>
+</tbody>
+</table>

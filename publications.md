@@ -18,7 +18,7 @@ The complete list of publications from the group can be found [here](https://sch
   <tbody>
     <tr>
       <td>
-        <img src="/assets/img/citations_per_year_1.jpg" alt="Jagadish B">
+        <img src="/assets/img/citations_per_year_1.jpg" >
 
 
 [back](./)

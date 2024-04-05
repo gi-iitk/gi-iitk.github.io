@@ -13,13 +13,13 @@ The complete list of publications from the group can be found [here](https://sch
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="8">Citations Per Year</th>
+<th colspan="2">Citations Per Year</th>
 </tr>
 </thead>
 <tbody>
-<tr>
-        
+   
 <td markdown="span">![image1](/assets/img/citations_per_year.jpg)<br>
 
 
 [back](./)
+s

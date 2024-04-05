@@ -20,7 +20,7 @@ The complete list of publications from the group can be found [here](https://sch
 <tbody>
 <tr>
 <td markdown="span">
-![Citations Per Year](/assets/img/citations_per_year.jpg)<br>
+![Citations Per Year](/assets/img/citations_per_year.JPG)<br>
 
 [back](./)
 </td>

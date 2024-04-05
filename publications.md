@@ -13,7 +13,7 @@ The complete list of publications from the group can be found [here](https://sch
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="1">Alumni</th>
+<th colspan="8">Citations Per Year</th>
 </tr>
 </thead>
 <tbody>

@@ -22,7 +22,7 @@ The complete list of publications from the group can be found [here](https://sch
 <td markdown="span">
 ![Citations Per Year](/assets/img/citations_per_year.JPG)<br>
 
-[back](./)
+
 </td>
 </tr>
 </tbody>

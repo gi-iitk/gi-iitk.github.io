@@ -54,7 +54,7 @@ Tel: +91-512 679 7413<br>
 
 
 </td>
-</tr>
+
 </tbody>
 </table>
 
@@ -66,7 +66,7 @@ Tel: +91-512 679 7413<br>
 <col width="70%" />
 </colgroup>
 <thead>
-</tr>
+
 </thead>
 <tbody>
 
@@ -84,7 +84,7 @@ Tel: +91-512 679 6179<br>
 
 
 </td>
-</tr>
+
 </tbody>
 </table>
 

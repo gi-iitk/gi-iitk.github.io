@@ -35,6 +35,8 @@ The complete list of publications from the group can be found [here](https://sch
 <col width="70%" />
 </colgroup>
 <thead>
+<tr class="header">
+<th colspan="2">Co-authors and there Citations</th>
 </tr>
 </thead>
 <tbody>
@@ -64,8 +66,6 @@ Tel: +91-512 679 7413<br>
 <col width="70%" />
 </colgroup>
 <thead>
-<tr class="header">
-<th colspan="2">Co-authors and there Citations</th>
 </tr>
 </thead>
 <tbody>

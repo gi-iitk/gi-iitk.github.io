@@ -59,3 +59,35 @@ Tel: +91-512 679 6179<br>
 </tbody>
 </table>
 
+
+<tr>
+<table>
+<colgroup>
+<col width="50%" />
+<col width="70%" />
+</colgroup>
+<thead>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">![image1](/assets/img/Balaji.png)<br>
+**[Dr. Balaji Devaraju](http://home.iitk.ac.in/~dbalaji/)**<br>
+Ph.D. (University of Stuttgart)<br>
+Email: [dbalaji@iitk.ac.in](mailto:dbalaji@iitk.ac.in)<br>
+Tel: +91-512 679 2047<br>
+
+
+</td>
+<td markdown="span">
+![Citations Per Year](/assets/img/citations_per_year_balaji_sir.PNG)<br>
+
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+

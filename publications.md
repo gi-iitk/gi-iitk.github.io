@@ -47,12 +47,11 @@ Ph.D. (University of Melbourne & IIT Kanpur)<br>
 Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)<br>
 Tel: +91-512 679 6179
 
-</td>
-</tr>
-</tbody>
-</table>
 
 <table>
+<colgroup>
+<col width="100%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th colspan="2">Citations Per Year</th>
@@ -60,11 +59,12 @@ Tel: +91-512 679 6179
 </thead>
 <tbody>
 <tr>
-<td>
 <td markdown="span">
 ![Citations Per Year](/assets/img/citations_per_year_salil_sir.JPG)<br>
+
 
 </td>
 </tr>
 </tbody>
 </table>
+

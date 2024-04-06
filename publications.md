@@ -89,14 +89,14 @@ Tel: +91-512 679 6179<br>
 </table>
 
 
-</tr>
+
 <table>
 <colgroup>
 <col width="50%" />
 <col width="70%" />
 </colgroup>
 <thead>
-</tr>
+
 </thead>
 <tbody>
 

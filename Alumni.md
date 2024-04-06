@@ -22,7 +22,6 @@ description:
 
 <td markdown="span"><br>
 **Milaa Zyad Murshan**<br>
-Contact No.:+91-9099942741<br>
 Email: [milaa.murshan@gmail.com](mailto:milaa.murshan@gmail.com)<br>
 LinkedIn Profile: [milaa-murshan](https://www.linkedin.com/in/milaa-murshan-4a7645147.html)<br>
 

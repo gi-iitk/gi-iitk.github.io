@@ -45,7 +45,7 @@ The complete list of publications from the group can be found [here](https://sch
 **[Dr. Salil Goel](https://sgoel-web.github.io)**<br>
 Ph.D. (University of Melbourne & IIT Kanpur)<br>
 Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)<br>
-Tel: +91-512 679 6179
+Tel: +91-512 679 6179<br>
 
 
 <table>

@@ -36,7 +36,7 @@ The complete list of publications from the group can be found [here](https://sch
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2">Co-authors</th>
+<th colspan="2">Co-authors and there Citations</th>
 </tr>
 </thead>
 <tbody>

@@ -46,13 +46,9 @@ The complete list of publications from the group can be found [here](https://sch
 Ph.D. (University of Reading)<br>
 Email: [blohani@iitk.ac.in](mailto:blohani@iitk.ac.in)<br>
 Tel: +91-512 679 7413<br>
-
-
 </td>
 <td markdown="span">
 ![Citations Per Year](/assets/img/citations_per_year_lohani_sir.PNG)<br>
-
-
 </td>
 </tr>
 </tbody>
@@ -99,7 +95,7 @@ Tel: +91-512 679 6179<br>
 
 </thead>
 <tbody>
-
+<tr>
 <td markdown="span">![image1](/assets/img/Balaji.png)<br>
 **[Dr. Balaji Devaraju](http://home.iitk.ac.in/~dbalaji/)**<br>
 Ph.D. (University of Stuttgart)<br>

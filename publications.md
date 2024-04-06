@@ -28,6 +28,12 @@ The complete list of publications from the group can be found [here](https://sch
 </tbody>
 </table>
 
+
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
 <tr class="header">
 <th colspan="2">Co-authors</th>
 </tr>

@@ -47,6 +47,11 @@ Ph.D. (University of Melbourne & IIT Kanpur)<br>
 Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)<br>
 Tel: +91-512 679 6179<br>
 
+</td>
+</tr>
+</tbody>
+</table>
+
 
 <table>
 <colgroup>

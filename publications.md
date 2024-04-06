@@ -28,6 +28,35 @@ The complete list of publications from the group can be found [here](https://sch
 </tbody>
 </table>
 
+
+<table>
+<colgroup>
+<col width="50%" />
+<col width="70%" />
+</colgroup>
+<thead>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">![image1](/assets/img/Blohani.png)<br>
+**[Dr. Bharat Lohani](http://home.iitk.ac.in/~blohani/)**<br>
+Ph.D. (University of Reading)<br>
+Email: [blohani@iitk.ac.in](mailto:blohani@iitk.ac.in)<br>
+Tel: +91-512 679 7413<br>
+
+
+</td>
+<td markdown="span">
+![Citations Per Year](/assets/img/citations_per_year_lohani_sir.PNG)<br>
+
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
 <tr>
 <table>
 <colgroup>
@@ -60,7 +89,7 @@ Tel: +91-512 679 6179<br>
 </table>
 
 
-<tr>
+
 <table>
 <colgroup>
 <col width="50%" />

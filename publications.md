@@ -31,7 +31,8 @@ The complete list of publications from the group can be found [here](https://sch
 <tr>
 <table>
 <colgroup>
-<col width="100%" />
+<col width="50%" />
+<col width="70%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -47,23 +48,8 @@ Ph.D. (University of Melbourne & IIT Kanpur)<br>
 Email: [sgoel@iitk.ac.in](mailto:sgoel@iitk.ac.in)<br>
 Tel: +91-512 679 6179<br>
 
+
 </td>
-</tr>
-</tbody>
-</table>
-
-
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="2">Citations Per Year</th>
-</tr>
-</thead>
-<tbody>
-<tr>
 <td markdown="span">
 ![Citations Per Year](/assets/img/citations_per_year_salil_sir.PNG)<br>
 

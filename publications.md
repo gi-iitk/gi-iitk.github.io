@@ -59,7 +59,7 @@ Tel: +91-512 679 7413<br>
 </table>
 
 
-<tr>
+
 <table>
 <colgroup>
 <col width="50%" />

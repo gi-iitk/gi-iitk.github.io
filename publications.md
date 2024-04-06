@@ -69,7 +69,7 @@ Tel: +91-512 679 7413<br>
 </tr>
 </thead>
 <tbody>
-<tr>
+
 <td markdown="span">
 ![image1](/assets/img/salil_goel.png)<br>
 **[Dr. Salil Goel](https://sgoel-web.github.io)**<br>
@@ -99,7 +99,7 @@ Tel: +91-512 679 6179<br>
 </tr>
 </thead>
 <tbody>
-<tr>
+
 <td markdown="span">![image1](/assets/img/Balaji.png)<br>
 **[Dr. Balaji Devaraju](http://home.iitk.ac.in/~dbalaji/)**<br>
 Ph.D. (University of Stuttgart)<br>

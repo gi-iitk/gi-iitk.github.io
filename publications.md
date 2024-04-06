@@ -65,7 +65,7 @@ Tel: +91-512 679 6179<br>
 <tbody>
 <tr>
 <td markdown="span">
-![Citations Per Year](/assets/img/citations_per_year_salil_sir.png)<br>
+![Citations Per Year](/assets/img/citations_per_year_salil_sir.PNG)<br>
 
 
 </td>

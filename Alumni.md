@@ -10,11 +10,11 @@ description:
 <table>
 <colgroup>
 <col width="50%" />
-<col width="50%" />
+<col width="70%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="4">Alumni</th>
+<th colspan="2">Alumni</th>
 </tr>
 </thead>
 <tbody>

@@ -9,8 +9,8 @@ description:
 * * *
 <table>
 <colgroup>
-<col width="100%" />
-<col width="100%" />
+<col width="50%" />
+<col width="50%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -255,8 +255,6 @@ Roll No.:16807134<br>
 <td markdown="span"><br>
 **Milaa Zyad Murshan**<br>
 Roll No.:17103277<br>
-Email: [milaa.murshan@gmail.com](mailto:milaa.murshan@gmail.com)<br>
-LinkedIn Profile: [milaa-murshan](https://www.linkedin.com/in/milaa-murshan-4a7645147.html)<br>
 
 
 </td>

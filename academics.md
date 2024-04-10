@@ -5,70 +5,8 @@ description:
 ---
 
 # Academics
-The Geoinformatics Laboratory offers a large number of postgraduate courses in diverse areas ranging from Geodesy and Global Navigation Satellite Systems (GNSS) to Light Detection and Ranging (LiDAR). The complete list of courses is given here.
-<table>
-<colgroup>
-<col width="50%" />
-<col width="70%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>First semester</th>
-<th>Second semester</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">Adjustment Computation for Geoinformatics-I</td>
-<td markdown="span">Instrumentation and Field practices in Geoinformatics</td>
-</tr>
-<tr>
-<td markdown="span">Reference Frames, Coordinate Systems and Map Projections</td>
-<td markdown="span">Adjustment Computation for Geoinformatics-II
-</td>
-</tr>
-<tr>
-<td markdown="span">Geodetic Astronomy and Introduction to Satellite Geodesy</td>
-<td markdown="span">Introduction to Global Navigation Satellite Systems (GNSS)
-</td>
-</tr>
-<tr>
-<td markdown="span">Physical Geodesy [Elective - 1]</td>
-<td markdown="span">Global Navigation Satellite Systems (GNSS) for Surveying and Mapping
-</td>
-</tr>
-<tr>
-<td markdown="span">Introduction to Remote Sensing [Elective - 1]</td>
-<td markdown="span">Introduction to Inertial and Multi-Sensor Navigation
-</td>
-</tr>
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Machine Processing of Remotely Sensed Data [Elective - 2]
-</td>
-</tr>
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Geographical Information System (GIS) [Elective - 2]
-</td>
-</tr>
-<tr>
-<td markdown="span"></td>
-<td markdown="span"> Photogrammetry and LiDAR [Elective - 2]
-</td>
-</tr>
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Environmental Geodesy [Elective - 2]
-</td>
-</tr>
-<tr>
-<td markdown="span"></td>
-<td markdown="span">Signal processing on Sphere [Elective - 2]
-</td>
-</tr>
-</tbody>
-</table>
+The Geoinformatics Laboratory offers a large number of postgraduate courses in diverse areas ranging from Geodesy and Global Navigation Satellite Systems (GNSS) to Light Detection and Ranging (LiDAR). The complete list of courses is given [here](https://www.iitk.ac.in/ce/geoinformatics).
+
 
 * * *
 # Admissions

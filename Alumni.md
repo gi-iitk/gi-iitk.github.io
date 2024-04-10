@@ -14,7 +14,7 @@ description:
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2">Alumni</th>
+<th colspan="4">Alumni</th>
 </tr>
 </thead>
 <tbody>

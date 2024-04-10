@@ -9,11 +9,12 @@ description:
 * * *
 <table>
 <colgroup>
-<col width="100%" />
+<col width="50%" />
+<col width="50%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="4">Alumni</th>
+<th colspan="2">Alumni</th>
 </tr>
 </thead>
 <tbody>
@@ -171,8 +172,6 @@ Roll No.:11103162<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Arpana Gupta**<br>
 Roll No.:12103010<br>
@@ -187,8 +186,7 @@ Roll No.:12807234<br>
 
 
 </td>
-</tr>
-<tr>
+
 <td markdown="span"><br>
 **Subhransu N Muduli**<br>
 Roll No.:13807717<br>

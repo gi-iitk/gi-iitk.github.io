@@ -9,8 +9,8 @@ description:
 * * *
 <table>
 <colgroup>
-<col width="50%" />
-<col width="50%" />
+<col width="100%" />
+<col width="100%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -26,8 +26,6 @@ Roll No.:Y4103028<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Ahzam Shadab**<br>
 Roll No.:Y4103001<br>
@@ -41,8 +39,6 @@ Roll No.:Y4103024<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Susham Biswas**<br>
 Roll No.:Y5103069<br>
@@ -56,8 +52,6 @@ Roll No.:Y5103069<br>
 Roll No.:Y5103005<br>
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **S V Raman Kumar**<br>
 Roll No.:Y5103056<br>
@@ -71,8 +65,6 @@ Roll No.:Y5103056<br>
 Roll No.:Y6927416<br>
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **P Bharath Gandhi**<br>
 Roll No.:Y6103005<br>
@@ -87,8 +79,6 @@ Roll No.:Y8127040<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Soumyadip Chandra**<br>
 Roll No.:Y8103044<br>
@@ -101,8 +91,6 @@ Roll No.:Y8103044<br>
 Roll No.:Y8103036<br>
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **G B Amar**<br>
 Roll No.:Y8103040<br>
@@ -117,8 +105,6 @@ Roll No.:Y8203061<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Atul Saroha**<br>
 Roll No.:Y9103007<br>
@@ -132,8 +118,6 @@ Roll No.:Y9103032<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Sumanta Pasari**<br>
 Roll No.:Y9103072<br>
@@ -149,8 +133,6 @@ Roll No.:10203062<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Ravi Sharma**<br>
 Roll No.:11103047<br>
@@ -164,37 +146,35 @@ Roll No.:11103003<br>
 
 
 </td>
-</tr>
-<tr>
+
 <td markdown="span"><br>
 **Arjun B M**<br>
 Roll No.:11103162<br>
 
 
 </td>
+</tr>
+<tr>
 <td markdown="span"><br>
 **Arpana Gupta**<br>
 Roll No.:12103010<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Devendra Choudhary**<br>
 Roll No.:12807234<br>
 
 
 </td>
-
+</tr>
+<tr>
 <td markdown="span"><br>
 **Subhransu N Muduli**<br>
 Roll No.:13807717<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Abhay Kumar Mishra**<br>
 Roll No.:13103002<br>
@@ -210,8 +190,6 @@ Roll No.:13807178<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Ankit Kumar**<br>
 Roll No.:13807118<br>
@@ -226,8 +204,6 @@ Roll No.:14103007<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Sarvesh Kumar Singh**<br>
 Roll No.:15103405<br>
@@ -242,8 +218,6 @@ Roll No.:15103045<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Vipul Sharma**<br>
 Roll No.:15103407<br>
@@ -257,8 +231,6 @@ Roll No.:15103407<br>
 Roll No.:16103078<br>
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Aakash Arora**<br>
 Roll No.:16103001<br>
@@ -272,8 +244,6 @@ Roll No.:16103275<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Anshul Yadav**<br>
 Roll No.:16807134<br>
@@ -290,8 +260,6 @@ LinkedIn Profile: [milaa-murshan](https://www.linkedin.com/in/milaa-murshan-4a76
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Shivam Pandey**<br>
 Roll No.:17807671<br>
@@ -306,8 +274,6 @@ Roll No.: 19103278 <br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Anshita Srivastava**<br>
 Roll No.:20103025<br>
@@ -321,8 +287,6 @@ Roll No.:20103039<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Javed Jabbar**<br>
 Roll No.:20103054<br>
@@ -336,8 +300,6 @@ Roll No.:20103054<br>
 Roll No.:20103074<br>
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Prateek Kumar Behera**<br>
 Roll No.:20103082<br>
@@ -351,8 +313,6 @@ Roll No.:20103095<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Ashish Katiyar**<br>
 Roll No.:20103268<br>

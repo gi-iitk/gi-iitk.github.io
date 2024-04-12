@@ -133,10 +133,10 @@ Email: [viveka21@iitk.ac.in](mailto:viveka21@iitk.ac.in)<br>
 </tbody>
 </table>
 
-<br>
-<br>
+
 ## M.Tech students in Geoinformatics Laboratory
 
+* * *
 <table>
 <colgroup>
 <col width="25%" />

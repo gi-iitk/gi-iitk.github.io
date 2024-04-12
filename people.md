@@ -26,6 +26,7 @@ The List of **Alumni** of GI laboratory can be found [here](./Alumni.html).
 </thead>
 <tbody>
 <tr>
+
 <td markdown="span">![image1](/assets/img/onkar-dikshit.png)<br>
 **[Dr. Onkar Dikshit](http://home.iitk.ac.in/~onkar/)**<br>
 Ph.D. (University of Cambridge)<br>

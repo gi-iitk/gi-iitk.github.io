@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Students
-description:
+description:students in Geoinformatics Laboratory
+
 ---
 ## PhD students in Geoinformatics Laboratory
 

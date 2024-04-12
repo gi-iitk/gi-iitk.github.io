@@ -127,6 +127,10 @@ Email: [viveka21@iitk.ac.in](mailto:viveka21@iitk.ac.in)<br>
 
 </td>
 
+layout: default
+title: M.Tech students
+description:
+---
 
 ## M.Tech students in Geoinformatics Laboratory
 

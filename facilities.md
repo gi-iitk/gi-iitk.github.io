@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Facilities
+title: Students
 description:
 ---
 

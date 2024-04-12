@@ -126,8 +126,9 @@ Roll No.:21103276<br>
 Email: [viveka21@iitk.ac.in](mailto:viveka21@iitk.ac.in)<br>
 
 </td>
----<br>
-
+<br>
+</tr>
+</table>
 
 ## M.Tech students in Geoinformatics Laborator
 

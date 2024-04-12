@@ -128,12 +128,14 @@ Email: [viveka21@iitk.ac.in](mailto:viveka21@iitk.ac.in)<br>
 </td>
 <br>
 
-</td>
+
 </tr>
 </tbody>
 </table>
 
-## M.Tech students in Geoinformatics Laborator
+<br>
+<br>
+## M.Tech students in Geoinformatics Laboratory
 
 <table>
 <colgroup>
@@ -271,8 +273,7 @@ Email:[jaysuryab23@iitk.ac.in](mailto:jaysuryab23@iitk.ac.in)<br>
 <td markdown="span"></td>
 </tr>
 
-</td>
-</tr>
+
 </tbody>
 </table>
 

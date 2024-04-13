@@ -365,6 +365,7 @@ Email: [abhyudays23@iitk.ac.in](mailto:abhyudays23@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/Reetu-Rawat.jpg)<br>
 **Reetu Rawat(DIIT)**<br>
 Email: [rreetu23@iitk.ac.in](mailto:rreetu23@iitk.ac.in)<br>
+</td>
 
 </tr>
 </tbody>

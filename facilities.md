@@ -175,7 +175,7 @@ Email: [rithvikl23@iitk.ac.in](mailto:rithvikl23@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/Saize.jpeg)<br>
 **Mohammad Saize Ali**<br>
 Roll No.:231030037<br>
-Email:[msaizeali23@iitk.ac.in](mailto:msaizeali23@iitk.ac.in)<br>
+Email: [msaizeali23@iitk.ac.in](mailto:msaizeali23@iitk.ac.in)<br>
 
 </td>
 </tr>
@@ -202,7 +202,7 @@ Email: [mrigankasb23@iitk.ac.in](mailto:mrigankasb23@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/Arunabh.jpg)<br>
 **Arunabh Dihingia**<br>
 Roll No.:231030008<br>
-Email:[arunabhd23@iitk.ac.in](mailto:arunabhd23@iitk.ac.in)<br>
+Email: [arunabhd23@iitk.ac.in](mailto:arunabhd23@iitk.ac.in)<br>
 
 </td>
 </tr>
@@ -253,7 +253,7 @@ Email: [vinayr23@iitk.ac.in](mailto:vinayr23@iitk.ac.in)<br>
 </td>
 <td markdown="span">![image1](/assets/img/abhijeet.jpg)<br>
 **Abhijeet**<br>
-Email:[abhijeet23@iitk.ac.in](mailto:abhijeet23@iitk.ac.in)<br>
+Email: [abhijeet23@iitk.ac.in](mailto:abhijeet23@iitk.ac.in)<br>
 
 </td>
 </tr>
@@ -275,7 +275,7 @@ Email: [khushbu20@iitk.ac.in](mailto:khushbu20@iitk.ac.in)<br>
 </td>
 <td markdown="span">![image1](/assets/img/Rachith-Vasuman.jpg)<br>
 **Rachith Vasuman S**<br>
-Email:[rachithvs23@iitk.ac.in](mailto:rachithvs23@iitk.ac.in)<br>
+Email: [rachithvs23@iitk.ac.in](mailto:rachithvs23@iitk.ac.in)<br>
 
 </td>
 </tr>
@@ -330,7 +330,7 @@ Email: [ksreekanth23@iitk.ac.in](mailto:ksreekanth23@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/Jaysurya.jpg)<br>
 **Jaysurya Bhattacharjee**<br>
 Roll No.:231030403<br>
-Email:[jaysuryab23@iitk.ac.in](mailto:jaysuryab23@iitk.ac.in)<br>
+Email: [jaysuryab23@iitk.ac.in](mailto:jaysuryab23@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Shubham.jpg)<br>
@@ -341,7 +341,7 @@ Email:[shubhamm23@iitk.ac.in](mailto:shubhamm23@iitk.ac.in)<br>
 </td>
 <td markdown="span">![image1](/assets/img/Anukul-Dwivedi.jpg)<br>
 **Anukul Dwivedi**<br>
-Email:[anukuld23@iitk.ac.in](mailto:anukuld23@iitk.ac.in)<br>
+Email: [anukuld23@iitk.ac.in](mailto:anukuld23@iitk.ac.in)<br>
 
 </td>
 </tr>
@@ -354,7 +354,7 @@ Email: [pramodbg23@iitk.ac.in](mailto:pramodbg23@iitk.ac.in)<br>
 </td>
 <td markdown="span">![image1](/assets/img/Satyam-Agnihotri.jpg)<br>
 **Satyam Agnihotri**<br>
-Email:[satyama23@iitk.ac.in](mailto:satyama23@iitk.ac.in)<br>
+Email: [satyama23@iitk.ac.in](mailto:satyama23@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Abhyuday-Singh.jpg)<br>
@@ -364,7 +364,7 @@ Email: [abhyudays23@iitk.ac.in](mailto:abhyudays23@iitk.ac.in)<br>
 </td>
 <td markdown="span">![image1](/assets/img/Reetu-Rawat.jpg)<br>
 **Reetu Rawat(DIIT)**<br>
-Email:[rreetu23@iitk.ac.in](mailto:rreetu23@iitk.ac.in)<br>
+Email: [rreetu23@iitk.ac.in](mailto:rreetu23@iitk.ac.in)<br>
 
 </tr>
 </tbody>

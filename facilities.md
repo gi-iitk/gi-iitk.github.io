@@ -160,7 +160,7 @@ Roll No.:22103030<br>
 Email: [manojitb22@iitk.ac.in](mailto:manojitb22@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/Jacob.jpg)<br>
+<td markdown="span">![image1](/assets/img/Jacob.JPG)<br>
 **Jacob C Babu**<br>
 Roll No.:231030023<br>
 Email: [jacobcb23@iitk.ac.in](mailto:jacobcb23@iitk.ac.in)<br>

@@ -233,7 +233,7 @@ Email: [chaitanyak23@iitk.ac.in](mailto:chaitanyak23@iitk.ac.in)<br>
 </td>
 </tr>
 <tr>
-<td markdown="span">![image1](/assets/img/Meghana.jpg)<br>
+<td markdown="span">![image1](/assets/img/Meghana.JPG)<br>
 **Sai Meghana Marrapu**<br>
 Roll No.:231030048<br>	
 Email: [meghanam23@iitk.ac.in](mailto:meghanam23@iitk.ac.in)<br>
@@ -321,13 +321,13 @@ Email: [shreyat23@iitk.ac.in](mailto:shreyat23@iitk.ac.in)<br>
 <tbody>
 
 <tr>
-<td markdown="span">![image1](/assets/img/Sreekanth.jpg)<br>
+<td markdown="span">![image1](/assets/img/Sreekanth.JPG)<br>
 **SREEKANTH K S**<br>
 Roll No.:231030409<br>	
 Email: [ksreekanth23@iitk.ac.in](mailto:ksreekanth23@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/Jaysurya.jpg)<br>
+<td markdown="span">![image1](/assets/img/Jaysurya.JPG)<br>
 **Jaysurya Bhattacharjee**<br>
 Roll No.:231030403<br>
 Email: [jaysuryab23@iitk.ac.in](mailto:jaysuryab23@iitk.ac.in)<br>

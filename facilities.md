@@ -141,10 +141,10 @@ Email: [viveka21@iitk.ac.in](mailto:viveka21@iitk.ac.in)<br>
 <br>
 <table>
 <colgroup>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
+<col width="22%" />
+<col width="22%" />
+<col width="22%" />
+<col width="22%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -308,10 +308,10 @@ Email: [shreyat23@iitk.ac.in](mailto:shreyat23@iitk.ac.in)<br>
 <br>
 <table>
 <colgroup>
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
-<col width="25%" />
+<col width="22%" />
+<col width="22%" />
+<col width="22%" />
+<col width="22%" />
 </colgroup>
 <thead>
 <tr class="header">

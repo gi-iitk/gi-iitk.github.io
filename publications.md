@@ -58,6 +58,7 @@ The complete list of publications from the group can be found [here](https://sch
 
 </td>
 </tr>
+<tr>
 
 <br>
 <td markdown="span">

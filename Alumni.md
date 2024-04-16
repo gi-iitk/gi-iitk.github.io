@@ -7,14 +7,19 @@ description:
 
 
 * * *
+
+(/assets/img/Publications.PNG)<br>
+
 <table>
 <colgroup>
-<col width="50%" />
-<col width="70%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2">Alumni</th>
+<th colspan="4">Alumni</th>
 </tr>
 </thead>
 <tbody>
@@ -32,8 +37,6 @@ Roll No.:Y4103001<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Malliakrjun Rao Lella**<br>
 Roll No.:Y4103024<br>
@@ -59,8 +62,6 @@ Roll No.:Y5103056<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Salil Goel**<br>
 Roll No.:Y6927416<br>
@@ -85,8 +86,7 @@ Roll No.:Y8127040<br>
 Roll No.:Y8103044<br>
 
 </td>
-</tr>
-<tr>
+
 <td markdown="span"><br>
 **Shalabh Khare**<br>
 Roll No.:Y8103036<br>
@@ -111,8 +111,7 @@ Roll No.:Y8203061<br>
 Roll No.:Y9103007<br>
 
 </td>
-</tr>
-<tr>
+
 <td markdown="span"><br>
 **Manohar Yadav**<br>
 Roll No.:Y9103032<br>
@@ -139,8 +138,6 @@ Roll No.:10203062<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Chinmay**<br>
 Roll No.:11907221<br>
@@ -166,8 +163,6 @@ Roll No.:11103003<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Arjun B M**<br>
 Roll No.:11103162<br>
@@ -194,8 +189,6 @@ Roll No.:12103010<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Divyesh Varade**<br>
 Roll No.:12103163<br>
@@ -220,8 +213,6 @@ Roll No.:13807717<br>
 Roll No.:13103002<br>
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Shilpa Singh**<br>
 Roll No.:13103056<br>
@@ -248,8 +239,7 @@ Roll No.:14103007<br>
 
 
 </td>
-</tr>
-<tr>
+
 <td markdown="span"><br>
 **Sonam**<br>
 Roll No.:14103045<br>
@@ -275,8 +265,6 @@ Roll No.:15103035<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Sarvesh Kumar Singh**<br>
 Roll No.:15103405<br>
@@ -301,8 +289,6 @@ Roll No.:15103407<br>
 Roll No.:16103027<br>
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Shivam Saraswat**<br>
 Roll No.:16103078<br>
@@ -327,8 +313,7 @@ Roll No.:16807134<br>
 
 
 </td>
-</tr>
-<tr>
+
 <td markdown="span"><br>
 **Apoorva Shukla**<br>
 Roll No.:16103402<br>
@@ -354,8 +339,6 @@ Roll No.:17103070<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Yadvendra Singh Rawat**<br>
 Roll No.:17103114<br>
@@ -381,8 +364,7 @@ Roll No.:17807671<br>
 
 
 </td>
-</tr>
-<tr>
+
 <td markdown="span"><br>
 **Jay Pratap**<br>
 Roll No.:19103039<br>
@@ -410,8 +392,6 @@ Roll No.:20103039<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Javed Jabbar**<br>
 Roll No.:20103054<br>
@@ -436,8 +416,6 @@ Roll No.:20103095<br>
 
 
 </td>
-</tr>
-<tr>
 <td markdown="span"><br>
 **Ashish Katiyar**<br>
 Roll No.:20103268<br>

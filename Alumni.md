@@ -5,7 +5,7 @@ description:
 ---
 ## Alumni  of Geoinformatics Laboratory
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,7 +13,7 @@ description:
     <title>My Website</title>
 </head>
 <body>
-    <h1>Welcome to My Website</h1>
+    
     <img src="Alumnipie.jpg" alt="Description of the image">
 </body>
 </html>

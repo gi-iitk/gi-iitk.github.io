@@ -29,3 +29,33 @@ The complete list of publications from the group can be found [here](https://sch
 
 
 
+* * *
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="2"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+
+
+h index <br>
+</td>
+
+28 <br>
+</td>
+
+22<br>
+</td>
+
+
+</td>
+</tr>
+<tr>

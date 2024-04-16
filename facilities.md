@@ -4,8 +4,42 @@ title: Students
 description:students in Geoinformatics Laboratory
 
 ---
-As of 15/4/2024 there are 33 Phd Reasearch Scholars,27 M.tech students, 9 M.S.R students and 3 DIIT students present registered in the GI lab.
-The list of those students is given below:
+## STUDENTS
+<p><i><small>updated as on 16-04-2024</small></i></p>
+<br>
+The total number of students currently registered in the GI lab
+* * *
+<br>
+<table>
+<colgroup>
+<col width="60%" />
+<col width="40%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="2">No. of Students</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Phd</td>
+<td>33</td>
+</tr>
+<tr>
+<td>M.tech</td>
+<td>27</td>
+</tr>
+<tr>
+<td>MSR</td>
+<td>9</td>
+</tr>
+<tr>
+<td>DIIT</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>  
+
 <br>
 ## PhD students in Geoinformatics Laboratory
 
@@ -146,7 +180,7 @@ Email: [aditya@iitk.ac.in](mailto:aditya@iitk.ac.in)<br>
 Email: [apratimb21@iitk.ac.in](mailto:apratimb21@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/Ashish-katiyar.jpg)<br>
+<td markdown="span">![image1](/assets/img/ashish-katiyar.jpg)<br>
 **Ashish Katiyar**<br>
 Email: [ashkat@iitk.ac.in](mailto:ashkat@iitk.ac.in)<br>
 
@@ -379,7 +413,7 @@ Email: [chaitanyak23@iitk.ac.in](mailto:chaitanyak23@iitk.ac.in)<br>
 </td>
 </tr>
 <tr>
-<td markdown="span">![image1](/assets/img/Meghana.jpg)<br>
+<td markdown="span">![image1](/assets/img/Meghana.JPG)<br>
 **Sai Meghana Marrapu**<br>
 Roll No.:231030048<br>	
 Email: [meghanam23@iitk.ac.in](mailto:meghanam23@iitk.ac.in)<br>
@@ -499,13 +533,13 @@ Email:[ajinrufus22@iitk.ac.in](mailto:ajinrufus22@iitk.ac.in)<br>
 <tbody>
 
 <tr>
-<td markdown="span">![image1](/assets/img/Sreekanth.jpg)<br>
+<td markdown="span">![image1](/assets/img/Sreekanth.JPG)<br>
 **SREEKANTH K S**<br>
 Roll No.:231030409<br>	
 Email: [ksreekanth23@iitk.ac.in](mailto:ksreekanth23@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/Jaysurya.jpg)<br>
+<td markdown="span">![image1](/assets/img/Jaysurya.JPG)<br>
 **Jaysurya Bhattacharjee**<br>
 Roll No.:231030403<br>
 Email:[jaysuryab23@iitk.ac.in](mailto:jaysuryab23@iitk.ac.in)<br>
@@ -543,7 +577,7 @@ Email: [abhyudays23@iitk.ac.in](mailto:abhyudays23@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/Reetu-Rawat.jpg)<br>
 **Reetu Rawat(DIIT)**<br>
 Email:[rreetu23@iitk.ac.in](mailto:rreetu23@iitk.ac.in)<br>
-
+</td>
 </tr>
 </tbody>
 </table>

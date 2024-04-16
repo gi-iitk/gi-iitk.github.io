@@ -46,7 +46,7 @@ The complete list of publications from the group can be found [here](https://sch
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2"></th>
+<th colspan="3">Research Summary</th>
 </tr>
 </thead>
 <tbody>

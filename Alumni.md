@@ -4,12 +4,9 @@ title: Alumni
 description:
 ---
 ## Alumni  of Geoinformatics Laboratory
-
+(/assets/img/Alumnipie.PNG)<br>
 
 * * *
-
-(/assets/img/Publications.PNG)<br>
-
 <table>
 <colgroup>
 <col width="25%" />

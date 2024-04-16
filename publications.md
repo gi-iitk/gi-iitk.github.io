@@ -5,7 +5,7 @@ description:
 ---
 
 # Publications
-<i><small>as updated as on 16-04-2024</small></i>
+<i><small>updated as on 16-04-2024</small></i>
 
 The complete list of publications from the group can be found [here](https://scholar.google.com/citations?hl=en&user=n1U-zvkAAAAJ). 
 

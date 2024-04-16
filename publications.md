@@ -30,7 +30,7 @@ The complete list of publications from the group can be found [here](https://sch
 
 
 * * *
-<table>
+<table style="margin-left: auto; margin-right: auto;">
 <colgroup>
 <col width="33%" />
 <col width="33%" />

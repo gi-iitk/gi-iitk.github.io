@@ -5,7 +5,6 @@ description:
 ---
 ## Alumni  of Geoinformatics Laboratory
 
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,7 +16,12 @@ description:
     <img src="/assets/img/Alumnipie.jpg" alt="Description of the image">
    
 <script src="/assets/img/Alumnipie.jpg"></script>
-
+<style>
+    body {
+     
+      justify-content: center;
+     
+        }
 
 </body>
 </html>

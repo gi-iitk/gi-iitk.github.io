@@ -46,15 +46,15 @@ The complete list of publications from the group can be found [here](https://sch
 <tr>
 
 
-<td
+<td markdown="span">!
 h index <br>
 </td>
 
-<td
+<td markdown="span">!
 28 <br>
 </td>
 
-<td
+<td markdown="span">!
 22<br>
 </td>
 

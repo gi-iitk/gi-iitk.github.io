@@ -15,7 +15,7 @@ description:
     
     <img src="/assets/img/Alumnipie.jpg" alt="Description of the image">
    
-<script src="/assets/img/Alumnipie.jpg"></script>
+    <script src="/assets/img/Alumnipie.jpg"></script>
 
 </body>
 </html>

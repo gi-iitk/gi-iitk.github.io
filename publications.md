@@ -47,7 +47,22 @@ The complete list of publications from the group can be found [here](https://sch
 
 
 <td markdown="span">
-** Citations** <br>
+<br>
+</td>
+
+<td markdown="span">
+**All** <br>
+</td>
+
+<td markdown="span">
+**Since 2019** <br>
+
+</td>
+</tr>
+<tr>
+
+<td markdown="span">
+**Citations** <br>
 </td>
 
 <td markdown="span">

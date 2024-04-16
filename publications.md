@@ -4,7 +4,8 @@ title: Publications
 description:
 ---
 
-# Publications <i><small>updated as on 16-04-2024</small></i>
+# Publications 
+<i><small>updated as on 16-04-2024</small></i>
 
 The complete list of publications from the group can be found [here](https://scholar.google.com/citations?hl=en&user=n1U-zvkAAAAJ). 
 

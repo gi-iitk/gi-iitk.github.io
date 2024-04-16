@@ -16,14 +16,7 @@ description:
     <img src="/assets/img/Alumnipie.jpg" alt="Description of the image">
    
 <script src="/assets/img/Alumnipie.jpg"></script>
-<style>
-    body {
-     
-      justify-content: center;
-     
-        }
 
-</body>
 </body>
 </html>
 

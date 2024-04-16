@@ -90,8 +90,31 @@ The complete list of publications from the group can be found [here](https://sch
 </td>
 </tr>
 <tr>
+<br>
+<br>
+
+* * *
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="3">Publications Per Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">
+![Citations Per Year](/assets/img/Publications.PNG)<br>
 
 
+</td>
+</tr>
+</tbody>
+</table>
+
+* * *
 <table>
 <colgroup>
 <col width="100%" />
@@ -114,24 +137,5 @@ The complete list of publications from the group can be found [here](https://sch
 
 
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="3">Publications Per Year</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">
-![Citations Per Year](/assets/img/Publications.PNG)<br>
-
-
-</td>
-</tr>
-</tbody>
-</table>
 
 

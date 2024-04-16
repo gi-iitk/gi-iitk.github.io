@@ -4,9 +4,9 @@ title: Students
 description:students in Geoinformatics Laboratory
 
 ---
-##Students in Geoinformatics Laboratory
+## Students in Geoinformatics Laboratory
 <p><i><small>updated as on 16-04-2024</small></i></p>
-The total number of students currently registered in the GI lab.
+The complete list of students currently registered under the GI lab.
 <table>
 <colgroup>
 <col width="60%" />
@@ -55,8 +55,8 @@ The total number of students currently registered in the GI lab.
 <tbody>
 
 <tr>
-<td markdown="span">![image1](/assets/img/default-male.jpg)<br>
-**Aswani Kumar Munnangi**
+<td markdown="span">![image1](/assets/img/default-male.JPG)<br>
+**Aswani Kumar Munnangi**<br>
 Roll No.:19103266 <br>
 Email: [aswanikm@iitk.ac.in](mailto:aswanikm@iitk.ac.in)<br>
 
@@ -94,7 +94,7 @@ Roll No.:19203267 <br>
 Email: [sdigvijy@iitk.ac.in](mailto:sdigvijy@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/Default.jpg)<br>
+<td markdown="span">![image1](/assets/img/Sunil-Kumar.jpg)<br>
 **Sunil Kumar**<br>
 Roll No.:19203270 <br>
 Email: [sdigvijy@iitk.ac.in](mailto:sdigvijy@iitk.ac.in)<br>
@@ -446,13 +446,13 @@ Email: [shivang23@iitk.ac.in](mailto:shivang23@iitk.ac.in)<br>
 </tr>
 
 <tr>
-<td markdown="span">![image1](/assets/img/default-male.jpg)<br>
+<td markdown="span">![image1](/assets/img/default-male.JPG)<br>
 **Ayush Gupta**<br>
 Roll No.:19807212<br>
 Email: <br>
 
 </td>
-<td markdown="span">![image1](/assets/img/default-pic.jpg)<br>
+<td markdown="span">![image1](/assets/img/default-male.JPG)<br>
 **Shubhi Kant**<br>
 Roll No.:19807836<br>
 Email: <br>

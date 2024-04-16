@@ -3,7 +3,7 @@ layout: default
 title: Alumni
 description:
 ---
-## Alumni  of Geoinformatics Laboratory
+# Alumni  of Geoinformatics Laboratory
 
 <html lang="en">
 <head>
@@ -15,7 +15,7 @@ description:
     
     <img src="/assets/img/Alumnipie.jpg" alt="Description of the image">
    
-    <script src="/assets/img/Alumnipie.jpg"></script>
+<script src="/assets/img/Alumnipie.jpg"></script>
 
 </body>
 </html>

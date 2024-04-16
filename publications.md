@@ -90,7 +90,7 @@ The complete list of publications from the group can be found [here](https://sch
 </td>
 </tr>
 <tr>
-* * *
+
 
 <table>
 <colgroup>
@@ -112,7 +112,6 @@ The complete list of publications from the group can be found [here](https://sch
 </tbody>
 </table>
 
-* * *
 
 
 <table>
@@ -135,4 +134,4 @@ The complete list of publications from the group can be found [here](https://sch
 </tbody>
 </table>
 
-* * *
+

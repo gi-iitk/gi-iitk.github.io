@@ -32,6 +32,12 @@ The complete list of publications from the group can be found [here](https://sch
 * * *
 
 <table>
+<style>
+  .center-table {
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
 <colgroup>
 <col width="33%" />
 <col width="33%" />

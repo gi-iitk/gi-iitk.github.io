@@ -37,77 +37,66 @@ The complete list of publications from the group can be found [here](https://sch
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Centered Table Example</title>
     <style>
-        .center-table {
-            margin-left: auto;
-            margin-right: auto;
+        body {
+            /* Ensures there is no extra padding or margin that could affect centering */
+            margin: 0;
+            padding: 0;
+            display: flex;           /* Enables flexbox layout */
+            justify-content: center; /* Centers content horizontally */
+            height: 100vh;           /* Full viewport height */
+            align-items: center;     /* Centers content vertically */
+        }
+        table {
+            /* Optional: Add border to the table for better visibility */
+            border-collapse: collapse;
+            width: 60%; /* Adjust this to set the table width as required */
+        }
+        th, td {
+            border: 1px solid black; /* Adds borders to table cells */
+            padding: 8px; /* Adds space inside cells */
+            text-align: center; /* Centers text in cells */
+        }
+        colgroup col {
+            width: 33%;
         }
     </style>
 </head>
 <body>
-    <table class="center-table">
+    <table>
         <colgroup>
-            <col width="33%" />
-            <col width="33%" />
-            <col width="33%" />
+            <col />
+            <col />
+            <col />
         </colgroup>
         <thead>
-            <tr class="header">
-                <th colspan="2"></th>
+            <tr>
+                <th colspan="3">Summary of Indices</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td><br></td>
-                <td><strong>All</strong><br></td>
-                <td><strong>Since 2019</strong><br></td>
+                <td></td>
+                <td><strong>All</strong></td>
+                <td><strong>Since 2019</strong></td>
             </tr>
             <tr>
-                <td><strong>Citations</strong><br></td>
-                <td>3259<br></td>
-                <td>1973<br></td>
+                <td><strong>Citations</strong></td>
+                <td>3259</td>
+                <td>1973</td>
             </tr>
             <tr>
-                <td><strong>h index</strong><br></td>
-                <td>28<br></td>
-                <td>22<br></td>
+                <td><strong>h index</strong></td>
+                <td>28</td>
+                <td>22</td>
             </tr>
             <tr>
-                <td><strong>i10-index</strong><br></td>
-                <td>98<br></td>
-                <td>70<br></td>
+                <td><strong>i10-index</strong></td>
+                <td>98</td>
+                <td>70</td>
             </tr>
         </tbody>
     </table>
 </body>
 </html>
 
-</td>
-
-<td markdown="span">
-28 <br>
-</td>
-
-<td markdown="span">
-22<br>
-
-
-</td>
-</tr>
-<tr>
-
-<td markdown="span">
-**i10-index** <br>
-</td>
-
-<td markdown="span">
-98 <br>
-</td>
-
-<td markdown="span">
-70<br>
-
-
-</td>
-</tr>
-<tr>
 

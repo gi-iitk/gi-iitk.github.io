@@ -31,12 +31,6 @@ The complete list of publications from the group can be found [here](https://sch
 
 * * *
 
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centered Table Example</title>
-    <style>
         body {
             /* Ensures there is no extra padding or margin that could affect centering */
             margin: 0;

@@ -4,12 +4,9 @@ title: Students
 description:students in Geoinformatics Laboratory
 
 ---
-## STUDENTS
+##Students in Geoinformatics Laboratory
 <p><i><small>updated as on 16-04-2024</small></i></p>
-<br>
-The total number of students currently registered in the GI lab
-* * *
-<br>
+The total number of students currently registered in the GI lab.
 <table>
 <colgroup>
 <col width="60%" />
@@ -23,11 +20,11 @@ The total number of students currently registered in the GI lab
 <tbody>
 <tr>
 <td>Phd</td>
-<td>33</td>
+<td>25</td>
 </tr>
 <tr>
 <td>M.tech</td>
-<td>27</td>
+<td>28</td>
 </tr>
 <tr>
 <td>MSR</td>
@@ -40,9 +37,7 @@ The total number of students currently registered in the GI lab
 </tbody>
 </table>  
 
-<br>
 ## PhD students in Geoinformatics Laboratory
-
 
 * * *
 <table>
@@ -58,91 +53,78 @@ The total number of students currently registered in the GI lab
 </tr>
 </thead>
 <tbody>
+
 <tr>
+<td markdown="span">![image1](/assets/img/default-male.jpg)<br>
+**Aswani Kumar Munnangi**
+Roll No.:19103266 <br>
+Email: [aswanikm@iitk.ac.in](mailto:aswanikm@iitk.ac.in)<br>
 
-
-<td markdown="span">![image1](/assets/img/Jagadish-Boodala.jpg)<br>
-**Jagadish B**<br>
-Roll No.:12103165<br>
-Email: [jagadish@iitk.ac.in](mailto:jagadish@iitk.ac.in)<br>
 </td>
+<td markdown="span">![image1](/assets/img/prashant.jpg)<br>
+**Prashant Chauhan**<br>
+Roll No.:19103277 <br>
+Email: [prashc@iitk.ac.in](mailto:prashc@iitk.ac.in)<br>
 
+</td>
+<td markdown="span">![image1](/assets/img/rashmi-malik.jpg)<br>
+**Rashmi Malik**<br>
+Roll No.:19103281 <br>
+Email: [rashmi@iitk.ac.in](mailto:rashmi@iitk.ac.in)<br>
+
+</td>
 <td markdown="span">![image1](/assets/img/rohit-rajput.jpg)<br>
 **Rohit Rajput**<br>
 Roll No.:19103282 <br>
 Email: [rrajput@iitk.ac.in](mailto:rrajput@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/sraghav.jpg)<br>
-**Raghavendra Sara**<br>
-Roll No.:12103169 <br>
-Email: [sraghav@iitk.ac.in](mailto:sraghav@iitk.ac.in)<br>
-
-</td>
-<td markdown="span">![image1](/assets/img/naveen.jpg)<br>
-**Naveen R**<br>
-Roll No.:12103166 <br>
-Email: [naveenr@iitk.ac.in](mailto:naveenr@iitk.ac.in)<br>
-
-</td>
 </tr>
+
 <tr>
-<td markdown="span">![image1](/assets/img/sujata.jpg)<br>
-**Sujata Dhar**<br>
-Roll No.:17103284<br>
-Email: [sujata@iitk.ac.in](mailto:sujata@iitk.ac.in)<br>
-
-</td>
-<td markdown="span">![image1](/assets/img/prashant.jpg)<br>
-**Prashant Chauhan**<br>
-Roll No.: 19103277 <br>
-Email: [prashc@iitk.ac.in](mailto:prashc@iitk.ac.in)<br>
-
-</td>
-<td markdown="span">![image1](/assets/img/rashmi-malik.jpg)<br>
-**Rashmi Malik**<br>
-Roll No.: 19103281 <br>
-Email: [rashmi@iitk.ac.in](mailto:rashmi@iitk.ac.in)<br>
-
-</td>
-<td markdown="span">![image1](/assets/img/Sunil-Kumar.jpg)<br>
-**Sunil Kumar**<br>
-Roll No.: 19203270<br>
-Email: [sunkmr@iitk.ac.in ](mailto:  sunkmr@iitk.ac.in)<br>
-
-</td>
-</tr>
-<tr>
-<td markdown="span">![image1](/assets/img/Ashwani-kumar.jpg)<br>
-**Ashwani kumar**<br>
-Roll No.: 19103266 <br>
-Email: [kashwani@iitk.ac.in](mailto:kashwani@iitk.ac.in)<br>
+<td markdown="span">![image1](/assets/img/Arnab-Laha-2.jpg)<br>
+**Arnab Laha**<br>
+Roll No.:19203265 <br>
+Email: [alaha@iitk.ac.in](mailto:alaha@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Digvijay-singh.jpg)<br>
 **Digvijay Singh**<br>
-Roll No.: 19203267 <br>
+Roll No.:19203267 <br>
 Email: [sdigvijy@iitk.ac.in](mailto:sdigvijy@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/Ibaad-Anwar.jpg)<br>
-**Ibaad Anwar**<br>
-Roll No.: 20203263<br>
-Email: [ibaadanwar20@iitk.ac.in](mailto:ibaadanwar20@iitk.ac.in )<br>
+<td markdown="span">![image1](/assets/img/Default.jpg)<br>
+**Sunil Kumar**<br>
+Roll No.:19203270 <br>
+Email: [sdigvijy@iitk.ac.in](mailto:sdigvijy@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/Arnab-Laha-2.jpg)<br>
-**Arnab Laha**<br>
-Roll No.: 19203265 <br>
-Email: [alaha@iitk.ac.in](mailto:alaha@iitk.ac.in)<br>
+<td markdown="span">![image1](/assets/img/Abhilasha-Garkoti.jpg)<br>
+**Abhilasha Garkoti**<br>
+Roll No.:20103261 <br>
+Email: [garkotiab@iitk.ac.in](mailto:garkotiab@iitk.ac.in)<br>
 
 </td>
 </tr>
+
 <tr>
-<td markdown="span">![image1](/assets/img/moonis.png)<br>
-**Moonis Ali**<br>
-Roll No.:20203266<br>
-Email: [moonisali20@iitk.ac.in](mailto:moonisali20@iitk.ac.in)<br>
+<td markdown="span">![image1](/assets/img/aditya.jpg)<br>
+**Aditya**<br>
+Roll No.:20103264 <br>
+Email: [aditya@iitk.ac.in](mailto:aditya@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/gowripeddi-pranavi.jpg)<br>
+**Gowripeddi Pranavi**<br>
+Roll No.:20103272<br>
+Email: [pranu20@iitk.ac.in](mailto:pranu20@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Shivangi-Singh.jpg)<br>
+**Shivangi Singh**<br>
+Roll No.:20103293<br>
+Email: [shivangi@iitk.ac.in](mailto:shivangi@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/vikas.png)<br>
@@ -151,10 +133,52 @@ Roll No.:20103306<br>
 Email: [vikas@iitk.ac.in](mailto:vikas@iitk.ac.in)<br>
 
 </td>
+</tr>
+
+<tr>
+<td markdown="span">![image1](/assets/img/Ibaad-Anwar.jpg)<br>
+**Ibaad Anwar**<br>
+Roll No.:20203263<br>
+Email: [ibaadanwar20@iitk.ac.in](mailto:ibaadanwar20@iitk.ac.in )<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Komali-Reddy.jpg)<br>
+**Komali Bharath Narayana Reddy**<br>
+Roll No.:20203265<br>
+Email: [mkbnreddy@iitk.ac.in](mailto:mkbnreddy@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/moonis.png)<br>
+**Moonis Ali**<br>
+Roll No.:20203266<br>
+Email: [moonisali20@iitk.ac.in](mailto:moonisali20@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/shilpi-chakraborty.jpg)<br>
+**Shilpi Chakraborty**<br>
+Roll No.:20203270<br>
+Email: [shilpic@iitk.ac.in](mailto:shilpic@iitk.ac.in)<br>
+
+</td>
+</tr>
+
+<tr>
+<td markdown="span">![image1](/assets/img/Sri-Priyanka-Kommula.jpg)<br>
+**Sri Priyanka Kommula**<br>
+Roll No.:20203272<br>
+Email: [spriyankak@iitk.ac.in](mailto:spriyankak@iitk.ac.in)<br>
+
+</td>
 <td markdown="span">![image1](/assets/img/surbhi.png)<br>
 **Surbhi Barnwal**<br>
 Roll No.:20203273<br>
 Email: [Surbhib20@iitk.ac.in](mailto:Surbhib20@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/kaustav-saha.jpg)<br>
+**Kaustav Saha**<br>
+Roll No.:21103271<br>
+Email: [kaustavs21@iitk.ac.in](mailto:kaustavs21@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/vivekanand.png)<br>
@@ -164,112 +188,42 @@ Email: [viveka21@iitk.ac.in](mailto:viveka21@iitk.ac.in)<br>
 
 </td>
 </tr>
+
 <tr>
-<td markdown="span">![image1](/assets/img/Abhilasha-Garkoti.jpg)<br>
-**Abhilasha Garkoti**<br>
-Email: [garkotiab@iitk.ac.in](mailto:garkotiab@iitk.ac.in)<br>
-</td>
-
-<td markdown="span">![image1](/assets/img/aditya.jpg)<br>
-**Aditya**<br>
-Email: [aditya@iitk.ac.in](mailto:aditya@iitk.ac.in)<br>
-
-</td>
 <td markdown="span">![image1](/assets/img/Apratim-Biswas.jpg)<br>
 **Apratim Biswas**<br>
+Roll No.:21103265<br>
 Email: [apratimb21@iitk.ac.in](mailto:apratimb21@iitk.ac.in)<br>
-
-</td>
-<td markdown="span">![image1](/assets/img/ashish-katiyar.jpg)<br>
-**Ashish Katiyar**<br>
-Email: [ashkat@iitk.ac.in](mailto:ashkat@iitk.ac.in)<br>
-
-</td>
-</tr>
-
-<tr>
-
-<td markdown="span">![image1](/assets/img/gowripeddi-pranavi.jpg)<br>
-**Gowripeddi Pranavi**<br>
-Email: [pranu20@iitk.ac.in](mailto:pranu20@iitk.ac.in)<br>
-</td>
-
-<td markdown="span">![image1](/assets/img/Jamil-Mahmood.jpg)<br>
-**Jamil Mahmood**<br>
-Email: [jamilm22@iitk.ac.in](mailto:jamilm22@iitk.ac.in)<br>
-
-</td>
-<td markdown="span">![image1](/assets/img/Mintesnot-Berhanu-Tilahun.jpg)<br>
-**Mintesnot Berhanu Tilahun**<br>
-Email: [mintesnot22@iitk.ac.in](mailto:mintesnot22@iitk.ac.in)<br>
-
-</td>
-<td markdown="span">![image1](/assets/img/kaustav-saha.jpg)<br>
-**Kaustav Saha**<br>
-Email: [kaustavs21@iitk.ac.in](mailto:kaustavs21@iitk.ac.in)<br>
-
-</td>
-</tr>
-
-<tr>
-
-
-<td markdown="span">![image1](/assets/img/Komali-Reddy.jpg)<br>
-**Komali Bharath Narayana Reddy**<br>
-Email: [mkbnreddy@iitk.ac.in](mailto:mkbnreddy@iitk.ac.in)<br>
-</td>
-
-<td markdown="span">![image1](/assets/img/milaa-zyad-murshan.jpg)<br>
-**Milaa Zyad Murshan**<br>
-Email: [milaa@iitk.ac.in](mailto:milaa@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Ratnesh-Kushwaha.jpg)<br>
 **Ratnesh Kushwaha**<br>
+Roll No.:21203275<br>
 Email: [ratnesh20@iitk.ac.in](mailto:ratnesh20@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/shilpi-chakraborty.jpg)<br>
-**Shilpi Chakraborty**<br>
-Email: [shilpic@iitk.ac.in](mailto:shilpic@iitk.ac.in)<br>
+<td markdown="span">![image1](/assets/img/Jamil-Mahmood.jpg)<br>
+**Jamil Mahmood**<br>
+Roll No.:22103270<br>
+Email: [jamilm22@iitk.ac.in](mailto:jamilm22@iitk.ac.in)<br>
 
 </td>
-</tr>
-
-<tr>
-
-
-<td markdown="span">![image1](/assets/img/Shivangi-Singh.jpg)<br>
-**Shivangi Singh**<br>
-Email: [shivangi@iitk.ac.in](mailto:shivangi@iitk.ac.in)<br>
-</td>
-
 <td markdown="span">![image1](/assets/img/S-Kirthana.jpg)<br>
 **S. Kirthana**<br>
+Roll No.:22103271<br>
 Email: [kirthanas@iitk.ac.in](mailto:kirthanas@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/Sri-Priyanka-Kommula.jpg)<br>
-**Sri Priyanka Kommula**<br>
-Email: [spriyankak@iitk.ac.in](mailto:spriyankak@iitk.ac.in)<br>
+</tr>
 
-</td>
+<tr>
 <td markdown="span">![image1](/assets/img/Vikas-Balajirao-Kapale.jpg)<br>
 **Vikas Balajirao Kapale**<br>
+Roll No.:22103284<br>
 Email: [vikasb22@iitk.ac.in](mailto:vikasb22@iitk.ac.in)<br>
 
 </td>
-</tr>
-<tr>
-<td markdown="span">![image1](/assets/img/Vipul-Sharma.jpg)<br>
-**Vipul Sharma**<br>
-Email: [vipulsh22@iitk.ac.in](mailto:vipulsh22@iitk.ac.in)<br>
-
-</td>
-<td markdown="span">
-**Aswani Kumar Munnangi**
-Email: [aswanikm@iitk.ac.in](mailto:aswanikm@iitk.ac.in)<br>
-</td>
+<td markdown="span"></td>
 <td markdown="span"></td>
 <td markdown="span"></td>
 </tr>
@@ -279,8 +233,8 @@ Email: [aswanikm@iitk.ac.in](mailto:aswanikm@iitk.ac.in)<br>
 
 ## M.Tech students in Geoinformatics Laboratory
 
-***
-<br>
+* * *
+
 <table>
 <colgroup>
 <col width="25%" />
@@ -303,11 +257,13 @@ Email: [manojitb22@iitk.ac.in](mailto:manojitb22@iitk.ac.in)<br>
 </td>
 <td markdown="span">![image1](/assets/img/Mansi-Pradip-Koshti.jpg)<br>
 **Manis Pradeep Koshti**<br>
+Roll No.:22103031 <br>
 Email: [mansipk22@iitk.ac.in](mailto:mansipk22@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Subham-Raj.jpg)<br>
-**Subham-Raj**<br>	
+**Subham-Raj**<br>
+Roll No.:22103070 <br>	
 Email: [subhamr22@iitk.ac.in](mailto:subhamr22@iitk.ac.in)<br>
 
 </td>
@@ -333,13 +289,6 @@ Email: [subhamr22@iitk.ac.in](mailto:subhamr22@iitk.ac.in)<br>
 </thead>
 <tbody>
 <tr>
-
-<td markdown="span">![image1](/assets/img/Vinay.jpg)<br>
-**Vinay Rajesh Auti**<br>
-Roll No.:231030066<br>	
-Email: [vinayr23@iitk.ac.in](mailto:vinayr23@iitk.ac.in)<br>
-
-</td>
 <td markdown="span">![image1](/assets/img/Jacob.JPG)<br>
 **Jacob C Babu**<br>
 Roll No.:231030023<br>
@@ -356,6 +305,12 @@ Email: [rithvikl23@iitk.ac.in](mailto:rithvikl23@iitk.ac.in)<br>
 **Mohammad Saize Ali**<br>
 Roll No.:231030037<br>
 Email:[msaizeali23@iitk.ac.in](mailto:msaizeali23@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Vinay.jpg)<br>
+**Vinay Rajesh Auti**<br>
+Roll No.:231030066<br>	
+Email: [vinayr23@iitk.ac.in](mailto:vinayr23@iitk.ac.in)<br>
 
 </td>
 </tr>
@@ -427,11 +382,13 @@ Email: [shanmukha23@iitk.ac.in](mailto:shanmukha23@iitk.ac.in)<br>
 </td>
 <td markdown="span">![image1](/assets/img/Bandi-Samanvitha.jpg)<br>
 **Bandi Samanvitha**<br>
+Roll No.:231030014<br>
 Email: [bandis23@iitk.ac.in](mailto:bandis23@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/abhijeet.jpg)<br>
 **Abhijeet**<br>
+Roll No.:231030002<br>
 Email:[abhijeet23@iitk.ac.in](mailto:abhijeet23@iitk.ac.in)<br>
 
 </td>
@@ -439,21 +396,24 @@ Email:[abhijeet23@iitk.ac.in](mailto:abhijeet23@iitk.ac.in)<br>
 <tr>
 <td markdown="span">![image1](/assets/img/amisha-dhiman.jpg)<br>
 **Amisha Dhiman**<br>
+Roll No.:231030006<br>
 Email: [amishad23@iitk.ac.in](mailto:amishad23@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Debcharan-Rabidas.jpg)<br>
 **Debcharan Rabidas**<br>
+Roll No.:231030016<br>
 Email: [debcharanr23@iitk.ac.in](mailto:debcharanr23@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Khushbu.jpg)<br>
-**Khushbu**<br>	
+**Khushbu(BT-MT)**<br>	
 Email: [khushbu20@iitk.ac.in](mailto:khushbu20@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Rachith-Vasuman.jpg)<br>
 **Rachith Vasuman S**<br>
+Roll No.:231030042<br>
 Email:[rachithvs23@iitk.ac.in](mailto:rachithvs23@iitk.ac.in)<br>
 
 </td>
@@ -461,25 +421,46 @@ Email:[rachithvs23@iitk.ac.in](mailto:rachithvs23@iitk.ac.in)<br>
 <tr>
 <td markdown="span">![image1](/assets/img/Saksham-Sharma.jpg)<br>
 **Saksham Sharma**<br>
+Roll No.:231030049<br>
 Email: [sakshams23@iitk.ac.in](mailto:sakshams23@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Shivesh-Kumar-Verma.jpg)<br>
 **Shivesh Kumar Verma**<br>
+Roll No.:231030056<br>
 Email: [shiveshv23@iitk.ac.in](mailto:shiveshv23@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Shreya-Todmal.jpg)<br>
 **Shreya Todmal**<br>
+Roll No.:231030057<br>
 Email: [shreyat23@iitk.ac.in](mailto:shreyat23@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Shivang-Pandit.jpg)<br>
 **Shivang Pandit**<br>
+Roll No.:231030055<br>
 Email: [shivang23@iitk.ac.in](mailto:shivang23@iitk.ac.in)<br>
+
 </td>
 </tr>
 
+<tr>
+<td markdown="span">![image1](/assets/img/default-male.jpg)<br>
+**Ayush Gupta**<br>
+Roll No.:19807212<br>
+Email: <br>
+
+</td>
+<td markdown="span">![image1](/assets/img/default-pic.jpg)<br>
+**Shubhi Kant**<br>
+Roll No.:19807836<br>
+Email: <br>
+
+</td>
+<td markdown="span"></td>
+<td markdown="span"></td>
+</tr>
 </tbody>
 </table>
 

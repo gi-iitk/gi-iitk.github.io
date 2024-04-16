@@ -119,7 +119,7 @@ The complete list of publications from the group can be found [here](https://sch
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="3">Publications Per Year</th>
+<th colspan="3">Publications Per Year (2008 onwards)</th>
 </tr>
 </thead>
 <tbody>
@@ -141,7 +141,7 @@ The complete list of publications from the group can be found [here](https://sch
 </colgroup>
 <thead>
 <tr class="header">
-<th colspan="2">Citations Per Year</th>
+<th colspan="2">Citations Per Year (2008 onwards)</th>
 </tr>
 </thead>
 <tbody>

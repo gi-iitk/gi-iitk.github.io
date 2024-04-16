@@ -4,7 +4,7 @@ title: Publications
 description:
 ---
 
-# Referred Publications
+# Publications
 
 The complete list of publications from the group can be found [here](https://scholar.google.com/citations?hl=en&user=n1U-zvkAAAAJ). 
 <table>
@@ -46,19 +46,50 @@ The complete list of publications from the group can be found [here](https://sch
 <tr>
 
 
-<td markdown="span">!
-h index <br>
+<td markdown="span">
+** Citations** <br>
 </td>
 
-<td markdown="span">!
+<td markdown="span">
+3259 <br>
+</td>
+
+<td markdown="span">
+1973<br>
+
+</td>
+</tr>
+<tr>
+
+<td markdown="span">
+**h index** <br>
+</td>
+
+<td markdown="span">
 28 <br>
 </td>
 
-<td markdown="span">!
+<td markdown="span">
 22<br>
-</td>
 
 
 </td>
 </tr>
 <tr>
+
+<td markdown="span">
+**i10-index** <br>
+</td>
+
+<td markdown="span">
+98 <br>
+</td>
+
+<td markdown="span">
+70<br>
+
+
+</td>
+</tr>
+<tr>
+

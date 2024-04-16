@@ -7,29 +7,6 @@ description:
 # Publications
 
 The complete list of publications from the group can be found [here](https://scholar.google.com/citations?hl=en&user=n1U-zvkAAAAJ). 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th colspan="2">Citations Per Year</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">
-![Citations Per Year](/assets/img/citations_per_year.PNG)<br>
-
-
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-* * *
 
 <table>
 <style>
@@ -114,4 +91,30 @@ The complete list of publications from the group can be found [here](https://sch
 </td>
 </tr>
 <tr>
+
+
+<table>
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="2">Citations Per Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">
+![Citations Per Year](/assets/img/citations_per_year.PNG)<br>
+
+
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+* * *
+
 

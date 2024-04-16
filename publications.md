@@ -46,6 +46,22 @@ The complete list of publications from the group can be found [here](https://sch
 <tr>
 
 <td markdown="span">
+**Publications** <br>
+</td>
+
+<td markdown="span">
+309 <br>
+</td>
+
+<td markdown="span">
+117<br>
+
+</td>
+</tr>
+<tr>
+
+
+<td markdown="span">
 **Citations** <br>
 </td>
 

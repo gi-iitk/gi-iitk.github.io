@@ -14,7 +14,11 @@ description:
 </head>
 <body>
     
-    <img src="Alumnipie.jpg" alt="Description of the image">
+    <img src="/assets/img/Alumnipie.jpg" alt="Description of the image">
+      src="images/Alumnipie.jpg"
+<script src="/assets/img/Alumnipie.jpg"></script>
+
+
 </body>
 </html>
 

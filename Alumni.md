@@ -4,10 +4,10 @@ title: Alumni
 description:
 ---
 ## Alumni  of Geoinformatics Laboratory
-(/assets/img/Alumnipie.PNG)<br>
+(/assets/img/Alumnipie.jpg)<br>
 
 
-## Ph.D Alumni of Geoinformatics Laboratory
+
 * * *
 <table>
 <colgroup>
@@ -83,8 +83,6 @@ Roll No.:17103277<br>
 </table>
 
 
-
-## M.Tech Alumni of Geoinformatics Laboratory
 
 * * *
 <table>
@@ -438,7 +436,7 @@ Roll No.:21103271<br>
 </table>
 
 
-## M.S.R Alumni of Geoinformatics Laboratory
+
 
 * * *
 <table>

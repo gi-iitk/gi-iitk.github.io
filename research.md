@@ -20,32 +20,29 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
       color: #333;
       margin: 0;
       padding: 20px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
     }
 
     .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    .chart-container {
       background-color: #fff;
       padding: 20px;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      display: flex;
-      flex-direction: column;
-      gap: 20px;
+      flex: 0 1 45%; /* Adjust the width as needed */
     }
 
     h1, h2, h3 {
       margin-top: 0;
     }
 
-    .chart-container {
-      text-align: center;
-    }
-
     canvas {
-      max-width: 400px;
+      max-width: 100%; /* Make sure canvas doesn't exceed its container */
       margin: 0 auto; /* Center the canvas horizontally */
       display: block;
       border-radius: 5px;
@@ -55,37 +52,39 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
     ul {
       padding-left: 20px;
     }
+
+    .y-axis-label {
+      position: absolute;
+      transform: rotate(-90deg);
+      left: -30px;
+      top: 50%;
+      font-size: 14px;
+    }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>Project Summary</h1>
+    <div class="chart-container">
+      <h2>Total Sponsored Projects Summary</h2>
+      <div class="chart-container">
+        <canvas id="sponsoredProjectsChart"></canvas>
+      </div>
+      <div class="chart-container">
+        <canvas id="sponsoredCostChart"></canvas>
+      </div>
+      <p><strong>Major Funding Agencies:</strong> MHRD, DST, DRDO</p>
+    </div>
 
-    <h2>Total Sponsored Projects Summary</h2>
     <div class="chart-container">
-      <canvas id="sponsoredProjectsChart"></canvas>
+      <h2>Total Consultancy Projects Summary</h2>
+      <div class="chart-container">
+        <canvas id="consultancyProjectsChart"></canvas>
+      </div>
+      <div class="chart-container">
+        <canvas id="consultancyCostChart"></canvas>
+      </div>
+      <p><strong>Major Funding Bodies:</strong> NGRI-CSIR, SMVDSB/THDC, THDC</p>
     </div>
-    <div class="chart-container">
-      <canvas id="sponsoredCostChart"></canvas>
-    </div>
-    <p><strong>Major Funding Agencies:</strong> MHRD, DST, DRDO</p>
-
-    <h2>Total Consultancy Projects Summary</h2>
-    <div class="chart-container">
-      <canvas id="consultancyProjectsChart"></canvas>
-    </div>
-    <div class="chart-container">
-      <canvas id="consultancyCostChart"></canvas>
-    </div>
-    <p><strong>Major Funding Bodies:</strong> NGRI-CSIR, SMVDSB/THDC, THDC</p>
-
-    <h2>Areas of Projects</h2>
-    <ul>
-      <li>LiDAR</li>
-      <li>Remote Sensing</li>
-      <li>Earthquake Modeling</li>
-      <!-- Add more areas as needed -->
-    </ul>
   </div>
 
   <script>
@@ -102,7 +101,7 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
     var sponsoredCostData = {
       labels: ['MHRD', 'DST', 'DRDO'],
       datasets: [{
-        label: 'Total Cost (in millions)',
+        label: 'Total Cost (in millions ₹)', // Added ₹ for Indian Rupees
         data: [40, 30, 25],
         backgroundColor: ['#ff9999', '#99ff99', '#9999ff'] // Different colors for each dataset
       }]
@@ -121,7 +120,7 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
     var consultancyCostData = {
       labels: ['NGRI-CSIR', 'SMVDSB/THDC', 'THDC'],
       datasets: [{
-        label: 'Total Cost (in millions)',
+        label: 'Total Cost (in millions ₹)', // Added ₹ for Indian Rupees
         data: [5, 3, 10],
         backgroundColor: ['#ffcc99', '#ccff99', '#99ffcc'] // Different colors for each dataset
       }]
@@ -146,6 +145,39 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
     var consultancyCostChart = new Chart(document.getElementById('consultancyCostChart'), {
       type: 'bar',
       data: consultancyCostData
+    });
+
+    // Add Y-axis labels
+    var sponsoredCostChartInstance = new Chart(document.getElementById('sponsoredCostChart'), {
+      type: 'bar',
+      data: sponsoredCostData,
+      options: {
+        scales: {
+          yAxes: [{
+            ticks: {
+              callback: function(value, index, values) {
+                return value + ' ₹'; // Add ₹ for Indian Rupees
+              }
+            }
+          }]
+        }
+      }
+    });
+
+    var consultancyCostChartInstance = new Chart(document.getElementById('consultancyCostChart'), {
+      type: 'bar',
+      data: consultancyCostData,
+      options: {
+        scales: {
+          yAxes: [{
+            ticks: {
+              callback: function(value, index, values) {
+                return value + ' ₹'; // Add ₹ for Indian Rupees
+              }
+            }
+          }]
+        }
+      }
     });
   </script>
 </body>

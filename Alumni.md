@@ -4,8 +4,20 @@ title: Alumni
 description:
 ---
 ## Alumni  of Geoinformatics Laboratory
-(/assets/img/Alumnipie.jpg)<br>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+</head>
+<body>
+    
+    <img src="/assets/img/Alumnipie.jpg" alt="Description of the image">
+   
+<script src="/assets/img/Alumnipie.jpg"></script>
 
+</body>
+</html>
 
 
 * * *

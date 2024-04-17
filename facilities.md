@@ -6,7 +6,7 @@ description:students in Geoinformatics Laboratory
 ---
 ## Students in Geoinformatics Laboratory
 <p><i><small>updated as on 17-04-2024</small></i></p>
-The total number of students currently studying under the GI lab.
+GI Laboratory is currently home to more than 65 students, working in various areas of Geoinformatics.
 <table>
 <colgroup>
 <col width="60%" />
@@ -19,11 +19,11 @@ The total number of students currently studying under the GI lab.
 </thead>
 <tbody>
 <tr>
-<td>Phd</td>
+<td>PhD</td>
 <td>25</td>
 </tr>
 <tr>
-<td>M.tech</td>
+<td>M.Tech</td>
 <td>29</td>
 </tr>
 <tr>

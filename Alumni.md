@@ -4,22 +4,10 @@ title: Alumni
 description:
 ---
 ## Alumni  of Geoinformatics Laboratory
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
-</head>
-<body>
-    
-    <img src="/assets/img/Alumnipie.jpg" alt="Description of the image">
-   
-<script src="/assets/img/Alumnipie.jpg"></script>
-
-</body>
-</html>
+(/assets/img/Alumnipie.PNG)<br>
 
 
+## Ph.D Alumni of Geoinformatics Laboratory
 * * *
 <table>
 <colgroup>
@@ -85,6 +73,34 @@ Roll No.:17103268<br>
 **Milaa Zyad Murshan**<br>             
 Roll No.:17103277<br>
 
+
+</td>
+<td markdown="span"><br>
+**Brajesh Kumar**<br>             
+Roll No.:12103016<br>
+
+
+</td>
+<td markdown="span"><br>
+**Saurabh Srivastava**<br>             
+Roll No.:10203061br>
+
+
+</td>
+<td markdown="span"><br>
+**R Naveen**<br>             
+Roll No.:12103166br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Anand Mehta**<br>             
+Roll No.:11503061<br>
+
+
+
+
 </td>
 <td markdown="span"></td>
 <td markdown="span"></td>
@@ -95,6 +111,8 @@ Roll No.:17103277<br>
 </table>
 
 
+
+## M.Tech Alumni of Geoinformatics Laboratory
 
 * * *
 <table>
@@ -440,6 +458,214 @@ Roll No.:20103268<br>
 **Kaustav Saha**<br>
 Roll No.:21103271<br>
 
+
+
+
+</td>
+<td markdown="span"><br>
+**Anand Mehta**<br>
+Roll No.:Y9103004<br>
+
+
+
+</td>
+<td markdown="span"><br>
+**Akash Ashapure**<br>
+Roll No.:12103004<br>
+
+
+</td>
+<td markdown="span"><br>
+**Russel Aziz**<br>
+Roll No.:10103039<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Saurabh Srivastava**<br>
+Roll No.:Y8103035<br>
+
+</td>
+<td markdown="span"><br>
+**Raman Sharma**<br>
+Roll No.:Y6927373<br>
+
+</td>
+<td markdown="span"><br>
+**Ravish Bapna**<br>
+Roll No.:Y6103028<br>
+
+</td>
+<td markdown="span"><br>
+**Shantanu Misra**<br>
+Roll No.:Y7027410<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Saurabh Gupta**<br>
+Roll No.:Y6103029<br>
+
+
+</td>
+<td markdown="span"><br>
+**Akshay Kaplesh**<br>
+Roll No.:12807070<br>
+
+
+</td>
+<td markdown="span"><br>
+**Anirudh Belwalkar**<br>
+Roll No.:17103010<br>
+
+
+</td>
+<td markdown="span"><br>
+**Diksha Gupta**<br>
+Roll No.:18103029<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Abhijit Madhusudan Pillai**<br>
+Roll No.:Y7103034<br>
+
+</td>
+<td markdown="span"><br>
+**Kshitij Singh**<br>
+Roll No.:Y6927225<br>
+
+</td>
+<td markdown="span"><br>
+**Kunal Mishra**<br>
+Roll No.:Y9227299<br>
+
+</td>
+<td markdown="span"><br>
+**Khushboo Gupta**<br>
+Roll No.:12103029<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Khushal Singh Chauhan**<br>
+Roll No.:12103030<br>
+
+</td>
+<td markdown="span"><br>
+**Ashutosh**<br>
+Roll No.:11103007<br>
+
+
+</td>
+<td markdown="span"><br>
+**Rahul Rao Siddharth**<br>
+Roll No.:14103039<br>
+
+</td>
+<td markdown="span"><br>
+**Yadvendra Singh Rawat**<br>
+Roll No.:17103114<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Prathamesh Purushottam Samant**<br>
+Roll No.:21103073<br>
+
+
+
+</td>
+<td markdown="span"><br>
+**Ankit Kumar**<br>
+Roll No.:13807118<br>
+
+
+
+</td>
+<td markdown="span"><br>
+**Prakhar Misra**<br>
+Roll No.:Y8127346<br>
+
+
+</td>
+<td markdown="span"><br>
+**Abhinav Garg**<br>              
+Roll No.:Y4177011<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Debjit Paul**<br>              
+Roll No.:19103025<br>
+
+
+</td>
+<td markdown="span"><br>
+**Ritu Verma**<br>              
+Roll No.:Y9103049<br>
+
+</td>
+<td markdown="span"><br>
+**Vineet Chauhan**<br>              
+Roll No.:11103058<br>
+
+
+</td>
+<td markdown="span"><br>
+**Ankit Gupta**<br>              
+Roll No.:Y8127086<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Ashokrao Amol Deshmukh**<br>              
+Roll No.:Y6103006<br>
+
+
+</td>
+<td markdown="span"><br>
+**J Indu**<br>              
+Roll No.:Y6103013<br>
+
+
+</td>
+<td markdown="span"><br>
+**Subash Yeggina**<br>              
+Roll No.:Y5103049<br>
+
+</td>
+<td markdown="span"><br>
+**Radha Krishna Budumuru**<br>              
+Roll No.:Y5103036<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Nikisha Biyani**<br>              
+Roll No.:Y9103038<br>
+
+
+</td>
+<td markdown="span"><br>
+**Shivam Pande**<br>              
+Roll No.:16103079<br>
+
+
 </td>
 <td markdown="span"></td>
 
@@ -448,7 +674,7 @@ Roll No.:21103271<br>
 </table>
 
 
-
+## M.S.R Alumni of Geoinformatics Laboratory
 
 * * *
 <table>

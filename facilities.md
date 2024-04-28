@@ -347,7 +347,7 @@ Email: [rithvikl23@iitk.ac.in](mailto:rithvikl23@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/Saize.jpeg)<br>
 **Mohammad Saize Ali**<br>
 Roll No.:231030037<br>
-Email:[msaizeali23@iitk.ac.in](mailto:msaizeali23@iitk.ac.in)<br>
+Email: [msaizeali23@iitk.ac.in](mailto:msaizeali23@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Vinay.jpg)<br>
@@ -380,7 +380,7 @@ Email: [mrigankasb23@iitk.ac.in](mailto:mrigankasb23@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/Arunabh.jpg)<br>
 **Arunabh Dihingia**<br>
 Roll No.:231030008<br>
-Email:[arunabhd23@iitk.ac.in](mailto:arunabhd23@iitk.ac.in)<br>
+Email: [arunabhd23@iitk.ac.in](mailto:arunabhd23@iitk.ac.in)<br>
 
 </td>
 </tr>
@@ -434,7 +434,7 @@ Email: [bandis23@iitk.ac.in](mailto:bandis23@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/abhijeet.jpg)<br>
 **Abhijeet**<br>
 Roll No.:231030002<br>
-Email:[abhijeet23@iitk.ac.in](mailto:abhijeet23@iitk.ac.in)<br>
+Email: [abhijeet23@iitk.ac.in](mailto:abhijeet23@iitk.ac.in)<br>
 
 </td>
 </tr>
@@ -461,7 +461,7 @@ Email: [shivang23@iitk.ac.in](mailto:shivang23@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/Rachith-Vasuman.jpg)<br>
 **Rachith Vasuman S**<br>
 Roll No.:231030042<br>
-Email:[rachithvs23@iitk.ac.in](mailto:rachithvs23@iitk.ac.in)<br>
+Email: [rachithvs23@iitk.ac.in](mailto:rachithvs23@iitk.ac.in)<br>
 
 </td>
 </tr>

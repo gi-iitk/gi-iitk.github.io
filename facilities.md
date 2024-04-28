@@ -549,7 +549,7 @@ Email: [amhamane22@iitk.ac.in](mailto:amhamane22@iitk.ac.in)<br>
 <td markdown="span">![image1](/assets/img/Ajin-Rufus.jpg)<br>
 **Ajin Rufus**<br>
 Roll No.:22103402<br>
-Email:[ajinrufus22@iitk.ac.in](mailto:ajinrufus22@iitk.ac.in)<br>
+Email: [ajinrufus22@iitk.ac.in](mailto:ajinrufus22@iitk.ac.in)<br>
 
 </td>
 <td markdown="span"></td>

@@ -8,7 +8,7 @@ The laboratory has 21  Ph.D Alumni,
                    2   M.S Alumni
 
 ## Alumni  of Geoinformatics Laboratory
-![image1](/assets/img/Alumnipie.jpg)<br>
+![image1](/assets/img/Pi_Charts_Alumini.PNG)<br>
 
 
 ## Ph.D Alumni of Geoinformatics Laboratory 

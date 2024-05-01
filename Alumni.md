@@ -7,7 +7,7 @@ description:
 ![image1](/assets/img/Alumnipie.jpg)<br>
 
 
-## Ph.D Alumni of Geoinformatics Laboratory
+## Ph.D Alumni of Geoinformatics Laboratory 
 * * *
 <table>
 <colgroup>
@@ -58,20 +58,22 @@ Roll No.:12103163<br>
 
 </td>
 <td markdown="span"><br>
-**Bhavesh Kumar**<br>           
-Roll No.:14103280<br>
+**Salil Goel**<br>
+Roll No: 13103170<br>
 
 </td>
 <td markdown="span"><br>
-**Avadh Bihari Narayan**<br>             
-Roll No.:17103268<br>
+**Bhavesh Kumar**<br>           
+Roll No.:14103280<br>
+
 
 </td>
 </tr>
 <tr>
 <td markdown="span"><br>
-**Milaa Zyad Murshan**<br>             
-Roll No.:17103277<br>
+**Ajay Dashora**<br>
+Roll No: Y8203061<br></td>
+
 
 
 </td>
@@ -97,6 +99,65 @@ Roll No.:12103166br>
 <td markdown="span"><br>
 **Anand Mehta**<br>             
 Roll No.:11503061<br>
+
+
+</td>
+<td markdown="span"><br>
+**Sunil Kumar Katiyar**<br>              
+Roll No.:9910369<br>
+
+
+</td>
+<td markdown="span"><br>
+**Virendra Pathak**<br>              
+Roll No.:9910370<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Mohamed Ashraf Shaban**<br>             
+Roll No.:9410365<br>
+
+
+</td>
+<td markdown="span"><br>
+**Anudeep S**<br>              
+Roll No.:13203067<br>
+
+
+</td>
+<td markdown="span"><br>
+**Avadh Bihari Narayan**<br>             
+Roll No.:17103268<br>
+
+
+
+</td>
+<td markdown="span"><br>
+**Suddhasheel Ghosh**<br>
+Roll No: Y4103070<br></td>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Miaa Zyad Murshan**<br>             
+Roll No.:17103277<br>
+
+</td>
+<td markdown="span"><br>
+**Arbaz Khan**<br>
+Roll No: Y9227128<br></td>
+
+
+
+
+
+
+
 
 
 
@@ -664,6 +725,578 @@ Roll No.:Y9103038<br>
 <td markdown="span"><br>
 **Shivam Pande**<br>              
 Roll No.:16103079<br>
+
+
+
+</td>
+<td markdown="span"><br>
+**Anil Kumar Patil**<br>              
+Roll No.:9610302<br>
+
+
+</td>
+<td markdown="span"><br>
+**Athyala Alice Samson**<br>              
+Roll No.:Y110305<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Saurabh Dixit**<br>              
+Roll No.:10327656<br>
+
+
+</td>
+<td markdown="span"><br>
+**Subhransu N. Muduli**<br>              
+Roll No.:13807717<br>
+
+
+</td>
+<td markdown="span"><br>
+**Ramji Dwivedi**<br>              
+Roll No.:10103037<br>
+
+
+</td>
+<td markdown="span"><br>
+**Jayesh Tulsidas Choudhari**<br>              
+Roll No.:10103037<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Pravendra Singh**<br>              
+Roll No.:11103039<br>
+
+
+</td>
+<td markdown="span"><br>
+**Major Vinay Bahl**<br>              
+Roll No.:Y3103058<br>
+
+
+</td>
+<td markdown="span"><br>
+**Karnati Madhukar Reddy**<br>              
+Roll No.:Y010320<br>
+
+
+</td>
+<td markdown="span"><br>
+**B Sreenivas**<br>              
+Roll No.:Y110306<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Sampath Kumar Pabbisetty**<br>              
+Roll No.:Y110318<br>
+
+
+</td>
+<td markdown="span"><br>
+** Faisal Hashmi S**<br>              
+Roll No.:Y3103041<br>
+
+
+</td>
+<td markdown="span"><br>
+**Kulbir Singh Thakur **<br>              
+Roll No.:9620304<br>
+
+
+</td>
+<td markdown="span"><br>
+**Vivek Bhaskar**<br>              
+Roll No.:9710340<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Kadari Ravi**<br>              
+Roll No.:Y110313<br>
+
+
+</td>
+<td markdown="span"><br>
+**D Susmtha**<br>              
+Roll No.:9710336<br>
+
+
+</td>
+<td markdown="span"><br>
+**Bijay Kumar Moharana**<br>              
+Roll No.:9610311<br>
+
+
+</td>
+<td markdown="span"><br>
+**P Satyanarayana**<br>              
+Roll No.:Y210323<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Vibhor Jain**<br>              
+Roll No.:Y010348<br>
+
+
+</td>
+<td markdown="span"><br>
+**Tapan Kumar Das**<br>              
+Roll No.:9510344<br>
+
+</td>
+<td markdown="span"><br>
+**Pavan Kumar Mankala**<br>              
+Roll No.:Y3103033<br>
+
+
+</td>
+<td markdown="span"><br>
+**Monika Katoch**<br>              
+Roll No.:9910313<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Y Sudheer Krishna Reddy**<br>              
+Roll No.:Y010348<br>
+
+
+</td>
+<td markdown="span"><br>
+**Malliakrjun Rao Lella**<br>              
+Roll No.:Y4103024<br>
+
+</td>
+<td markdown="span"><br>
+**Anand Kumar K Gautham**<br>              
+Roll No.:Y210315<br>
+
+
+</td>
+<td markdown="span"><br>
+**Sagar Shriram Deshpande**<br>              
+Roll No.:Y210313<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Hemant Kudnani **<br>              
+Roll No.:Y5103019<br>
+
+</td>
+<td markdown="span"><br>
+**Ravi Shanker Thakur**<br>              
+Roll No.:9310342<b>
+
+
+</td>
+<td markdown="span"><br>
+**T Aruna Kumari**<br>              
+Roll No.:9810330<b>
+
+
+</td>
+<td markdown="span"><br>
+**Sanjoy Das**<br>              
+Roll No.:9710329<b>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Vasanth Kumar Madapuram **<br>              
+Roll No.:9810331<br>
+
+</td>
+<td markdown="span"><br>
+**Ajay Diwakar**<br>              
+Roll No.:9310301<b>
+
+</td>
+<td markdown="span"><br>
+**S.K. Khanna**<br>              
+Roll No.:Y010337<b>
+
+
+</td>
+<td markdown="span"><br>
+**Maruthi Ram Ponnapalli**<br>              
+Roll No.:9910312<b>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Ravi Gupta **<br>              
+Roll No.:9310341<br>
+
+</td>
+<td markdown="span"><br>
+**Dipanjan Sengupta**<br>              
+Roll No.:9510313<b>
+
+
+</td>
+<td markdown="span"><br>
+**Ramala Ramachandra Reddy**<br>              
+Roll No.:9910320<b>
+
+
+</td>
+<td markdown="span"><br>
+**R K Amit**<br>              
+Roll No.:9810324<b>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Ashish Kumar Tiwari**<br>              
+Roll No.:Y010323<br>
+
+
+</td>
+<td markdown="span"><br>
+**C Vishwnath**<br>              
+Roll No.:9610312<b>
+
+
+</td>
+<td markdown="span"><br>
+**Anubhav Tiwari**<br>              
+Roll No.:Y210306<b>
+
+
+</td>
+<td markdown="span"><br>
+**Lakshmi Pradeep**<br>              
+Roll No.:13103036<b>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Ayush Aggarwal**<br>              
+Roll No.:11907177<br>
+
+
+</td>
+<td markdown="span"><br>
+**Gaurav Hawadiya**<br>              
+Roll No.:13103027<br>
+
+
+</td>
+<td markdown="span"><br>
+**Gaurav Hawadiya**<br>              
+Roll No.:13103027<b>
+
+
+</td>
+<td markdown="span"><br>
+**Rahul Rao Siddharth**<br>              
+Roll No.:14103039<br>
+
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Amar Ekta**<br>
+Roll No: Y3103019<br>
+
+</td>
+<td markdown="span"><br>
+**Parameshwar P Reddy**<br>
+Roll No: Y4103028<br></td>
+
+<td markdown="span"><br>
+**S V Raman Kumar**<br>
+Roll No: Y5103056<br>
+</td>
+<td markdown="span"><br>
+**Nishant Bhatnagar**
+<br>Roll No: Y5103029<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Abhishek Kumar Singh**<br>
+Roll No: Y5103002<br>
+</td>
+<td markdown="span"><br>
+**Surya Aditya Y**<br>
+Roll No: Y6103037<br>
+</td>
+<td markdown="span"><br>
+**P Bharath Gandhi**<br>
+Roll No: Y6103005<br>
+
+</td>
+<td markdown="span"><br>
+**Raghavendra Sara**<br>
+Roll No: Y7103045<br>
+
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Pankaj Akula**<br>
+Roll No: Y8103026<br>
+
+</td>
+<td markdown="span"><br>
+**Aditya Roshan**<br>
+Roll No: Y8103001<br>
+</td>
+<td markdown="span"><br>
+**Shalabh Khare**<br>
+Roll No: Y8103036<br>
+</td>
+<td markdown="span"><br>
+**Ahzam Shadab**<br>
+Roll No: Y4103001<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Vipin Panwar**<br>
+Roll No: Y9103063<br>
+</td>
+<td markdown="span"><br>
+**Manohar Yadav**<br>
+Roll No: Y9103032<br>
+</td>
+<td markdown="span"><br>
+**Anjani Kumar Singh**<br>
+Roll No: Y9103005<br>
+</td>
+<td markdown="span"><br>
+**Brijesh Kumar Gupta**<br>
+Roll No: Y9103011<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Snehal Ajit Indurkar**<br>
+Roll No: Y9103052<br>
+</td>
+<td markdown="span"><br>
+**Sandeep Sasidharan**<br>
+Roll No: 10103040<br>
+</td>
+<td markdown="span"><br>
+**Siju Chacko**<br>
+Roll No: 10103059<br>
+</td>
+<td markdown="span"><br>
+**Mohd Shadab Alam**<br>
+Roll No: 11116007<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Ravi Sharma**<br>
+Roll No: 11103047<br>
+</td>
+<td markdown="span"><br>
+**Agrim Gupta**<br>
+Roll No: Y8127040<br>
+</td>
+<td markdown="span"><br>
+**Vishesh Panjabi**<br>
+Roll No: Y9227662<br>
+</td>
+<td markdown="span"><br>
+**Anamika Singh**<br>
+Roll No: 12103007<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Saurabh Kumar**<br>
+Roll No: Y9227527<br>
+</td>
+<td markdown="span"><br>
+**Sapan Jain**<br>
+Roll No: 12116007<br>
+</td>
+<td markdown="span"><br>
+**Himanshu Kumar**<br>
+Roll No: 11103020<br>
+</td>
+<td markdown="span"><br>
+**Piyush Kumar Shukla**<br>
+Roll No: 12103070<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Shikhar Gupta**<br>
+Roll No: 10327681<br>
+</td>
+<td markdown="span"><br>
+**Natrajan Jaiswal**<br>
+Roll No: 10327437<br>
+</td>
+<td markdown="span"><br>
+**Swagta Kumari Sheoran**<br>
+Roll No: 13103067<br>
+</td>
+<td markdown="span"><br>
+**Shrinath Purohit**<br>
+Roll No: 13116009<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Abhay Kumar Mishra**<br>
+Roll No: 13103002<br>
+</td>
+<td markdown="span"><br>
+**Shubhi Harbola**<br>
+Roll No: 14103044<br>
+</td>
+<td markdown="span"><br>
+**Shrey Agarwal**<br>
+Roll No: 11907695<br>
+</td>
+<td markdown="span"><br>
+**Sadbodh Sharma**<br>
+Roll No: 14103040<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Saurabh Shah**<br>
+Roll No: 13103054<br>
+</td>
+<td markdown="span"><br>
+**Aaditya Verma**<br>
+Roll No: 11907002<br>
+</td>
+<td markdown="span"><br>
+**Namit Mittal**<br>
+Roll No: 11907449<br>
+</td>
+<td markdown="span"><br>
+**Suchismita Subhadarsini**<br>
+Roll No: 14103047<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Devendra Choudhary**<br>
+Roll No: 12807234<br>
+
+</td>
+<td markdown="span"><br>
+**Sarvesh Kumar Singh**<br>
+Roll No: 15103405<br>
+</td>
+<td markdown="span"><br>
+**Salik Abbasi**<br>
+Roll No: 13807605<br>
+</td>
+<td markdown="span"><br>
+**Shivam Saraswat**<br>
+Roll No: 16103078<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Tarun Agrawal**<br>
+Roll No: 13807741<br>
+</td>
+<td markdown="span"><br>
+**Himanshu Gupta**<br>
+Roll No: 16103032<br>
+</td>
+<td markdown="span"><br>
+**Deepanshu Yadav**<br>
+Roll No: 16103027<br>
+</td>
+<td markdown="span"><br>
+**Pooja Gupta**<br>
+Roll No: 19103056<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Ashish Kanderi**<br>
+Roll No: 19103016<br>
+</td>
+<td markdown="span"><br>
+**Nishu Yaduwanshi**<br>
+Roll No: 19103053<br>
+</td>
+<td markdown="span"><br>
+**Aritra Nandy**<br>
+Roll No: 20103028<br>
+</td>
+<td markdown="span"><br>
+**Shashank Santoshrao Karyakarte**<br>
+Roll No: 20103107<br>
+
+</td>
+</tr>
+<tr>
+<td markdown="span"><br>
+**Amita Aggerwal**<br>              
+Roll No.:14103006<br>
+
+
+</td>
+<td markdown="span"><br>
+**Gaurav Hawadiya**<br>              
+Roll No.:13103027<br>
+
+
+
+</td>
+<td markdown="span"><br>
+**Harveen Punihani**<br>              
+Roll No.:10327604<br>
+
+</td>
+<td markdown="span"><br>
+**Rajneesh Singh**<br>
+Roll No: Y3103038<br>
+
+
+
 
 
 </td>

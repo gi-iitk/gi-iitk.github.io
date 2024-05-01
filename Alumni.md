@@ -85,13 +85,13 @@ Roll No.:12103016<br>
 </td>
 <td markdown="span"><br>
 **Saurabh Srivastava**<br>             
-Roll No.:10203061br>
+Roll No.:10203061<br>
 
 
 </td>
 <td markdown="span"><br>
 **R Naveen**<br>             
-Roll No.:12103166br>
+Roll No.:12103166<br>
 
 </td>
 </tr>
@@ -112,6 +112,10 @@ Roll No.:9910369<br>
 **Virendra Pathak**<br>              
 Roll No.:9910370<br>
 
+</td>
+<td markdown="span"><br>
+**Arbaz Khan**<br>
+Roll No: Y9227128<br>
 
 </td>
 </tr>
@@ -146,17 +150,6 @@ Roll No: Y4103070<br></td>
 <td markdown="span"><br>
 **Miaa Zyad Murshan**<br>             
 Roll No.:17103277<br>
-
-</td>
-<td markdown="span"><br>
-**Arbaz Khan**<br>
-Roll No: Y9227128<br></td>
-
-
-
-
-
-
 
 
 

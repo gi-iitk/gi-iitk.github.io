@@ -3,6 +3,10 @@ layout: default
 title: Alumni
 description:
 ---
+The laboratory has 21  Ph.D Alumni
+                   188 M.Tech Alumni
+                   2   M.S Alumni
+
 ## Alumni  of Geoinformatics Laboratory
 ![image1](/assets/img/Alumnipie.jpg)<br>
 

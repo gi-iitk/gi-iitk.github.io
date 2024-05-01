@@ -802,13 +802,13 @@ Roll No.:Y110318<br>
 
 </td>
 <td markdown="span"><br>
-** Faisal Hashmi S**<br>              
+**Faisal Hashmi S**<br>              
 Roll No.:Y3103041<br>
 
 
 </td>
 <td markdown="span"><br>
-**Kulbir Singh Thakur **<br>              
+**Kulbir Singh Thakur**<br>              
 Roll No.:9620304<br>
 
 

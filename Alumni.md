@@ -896,56 +896,56 @@ Roll No.:Y210313<br>
 </tr>
 <tr>
 <td markdown="span"><br>
-**Hemant Kudnani **<br>              
+**Hemant Kudnani**<br>              
 Roll No.:Y5103019<br>
 
 </td>
 <td markdown="span"><br>
 **Ravi Shanker Thakur**<br>              
-Roll No.:9310342<b>
+Roll No.:9310342<br>
 
 
 </td>
 <td markdown="span"><br>
 **T Aruna Kumari**<br>              
-Roll No.:9810330<b>
+Roll No.:9810330<br>
 
 
 </td>
 <td markdown="span"><br>
 **Sanjoy Das**<br>              
-Roll No.:9710329<b>
+Roll No.:9710329<br>
 
 
 </td>
 </tr>
 <tr>
 <td markdown="span"><br>
-**Vasanth Kumar Madapuram **<br>              
+**Vasanth Kumar Madapuram**<br>              
 Roll No.:9810331<br>
 
 </td>
 <td markdown="span"><br>
 **Ajay Diwakar**<br>              
-Roll No.:9310301<b>
+Roll No.:9310301<br>
 
 </td>
 <td markdown="span"><br>
 **S.K. Khanna**<br>              
-Roll No.:Y010337<b>
+Roll No.:Y010337<br>
 
 
 </td>
 <td markdown="span"><br>
 **Maruthi Ram Ponnapalli**<br>              
-Roll No.:9910312<b>
+Roll No.:9910312<br>
 
 
 </td>
 </tr>
 <tr>
 <td markdown="span"><br>
-**Ravi Gupta **<br>              
+**Ravi Gupta**<br>              
 Roll No.:9310341<br>
 
 </td>

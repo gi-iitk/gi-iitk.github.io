@@ -10,6 +10,7 @@ Geoinformatics Laboratory, IIT Kanpur has been contributing to the national deve
 
 * * *
 
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
   <meta charset="UTF-8">

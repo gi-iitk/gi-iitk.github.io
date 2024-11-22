@@ -6,8 +6,8 @@ description: students in Geoinformatics Laboratory
 
 ## Students in Geoinformatics Laboratory
 
-<p><i><small>updated as on 17-04-2024</small></i></p>
-GI Laboratory is currently home to more than 65 students, working in various areas of Geoinformatics.
+<p><i><small>updated as on 22-11-2024 by Mriganka Shekhar Barman</small></i></p>
+GI Laboratory is currently home to more than 70 students, working in various areas of Geoinformatics.
 <table>
 <colgroup>
 <col width="60%" />
@@ -25,7 +25,7 @@ GI Laboratory is currently home to more than 65 students, working in various are
 </tr>
 <tr>
 <td>M.Tech</td>
-<td>29</td>
+<td>36</td>
 </tr>
 <tr>
 <td>MSR</td>
@@ -456,10 +456,10 @@ Roll No.:231030016<br>
 Email: [debcharanr23@iitk.ac.in](mailto:debcharanr23@iitk.ac.in)<br>
 
 </td>
-<td markdown="span">![image1](/assets/img/Shivang-Pandit.jpg)<br>
-**Shivang Pandit**<br>
-Roll No.:231030055<br>
-Email: [shivang23@iitk.ac.in](mailto:shivang23@iitk.ac.in)<br>
+<td markdown="span">![image1](/assets/img/Shreya-Todmal.jpg)<br>
+**Shreya Todmal**<br>
+Roll No.:231030057<br>
+Email: [shreyat23@iitk.ac.in](mailto:shreyat23@iitk.ac.in)<br>
 
 </td>
 <td markdown="span">![image1](/assets/img/Rachith-Vasuman.jpg)<br>
@@ -481,12 +481,6 @@ Email: [sakshams23@iitk.ac.in](mailto:sakshams23@iitk.ac.in)<br>
 **Shivesh Kumar Verma**<br>
 Roll No.:231030056<br>
 Email: [shiveshv23@iitk.ac.in](mailto:shiveshv23@iitk.ac.in)<br>
-
-</td>
-<td markdown="span">![image1](/assets/img/Shreya-Todmal.jpg)<br>
-**Shreya Todmal**<br>
-Roll No.:231030057<br>
-Email: [shreyat23@iitk.ac.in](mailto:shreyat23@iitk.ac.in)<br>
 
 </td>
 <td markdown="span"></td>

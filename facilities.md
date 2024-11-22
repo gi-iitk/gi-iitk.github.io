@@ -4,7 +4,9 @@ title: Students
 description:students in Geoinformatics Laboratory
 
 ---
+
 ## Students in Geoinformatics Laboratory
+
 <p><i><small>updated as on 17-04-2024</small></i></p>
 GI Laboratory is currently home to more than 65 students, working in various areas of Geoinformatics.
 <table>
@@ -35,11 +37,12 @@ GI Laboratory is currently home to more than 65 students, working in various are
 <td>3</td>
 </tr>
 </tbody>
-</table>  
+</table>
 
 ## PhD students in Geoinformatics Laboratory
 
-* * *
+---
+
 <table>
 <colgroup>
 <col width="25%" />
@@ -231,10 +234,10 @@ Email: [vikasb22@iitk.ac.in](mailto:vikasb22@iitk.ac.in)<br>
 </tbody>
 </table>
 
-
 ## M.Tech students in Geoinformatics Laboratory
 
-* * *
+---
+
 <table>
 <colgroup>
 <col width="25%" />
@@ -274,7 +277,8 @@ Email: [khushbu20@iitk.ac.in](mailto:khushbu20@iitk.ac.in)<br>
 </tbody>
 </table>
 
-* * *
+---
+
 <br>
 <table>
 <colgroup>
@@ -315,7 +319,8 @@ Email: [subhamr22@iitk.ac.in](mailto:subhamr22@iitk.ac.in)<br>
 </tbody>
 </table>
 
-* * *
+---
+
 <br>
 <table>
 <colgroup>
@@ -491,8 +496,127 @@ Email: [shreyat23@iitk.ac.in](mailto:shreyat23@iitk.ac.in)<br>
 </tbody>
 </table>
 
+---
+
+<br>
+<table>
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="4">2024</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td markdown="span">![image1](/assets/img/Abhishek-Kumar-Pandit.JPG)<br>
+**Abhishek Kumar Pandit**<br>
+Roll No.:241030004<br>
+Email: [akpandit24@iitk.ac.in](mailto:akpandit24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Aditi-Sahu.jpg)<br>
+**Aditi Sahu**<br>
+Roll No.:241030006<br>	
+Email: [aditisahu24@iitk.ac.in](mailto:aditisahu24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Arka-Dipta-Sarkar.jpg)<br>
+**Arka Dipta Sarkar**<br>
+Roll No.:241030021<br>
+Email: [arkadiptas24@iitk.ac.in](mailto:arkadiptas24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Ashis-Aryal.jpg)<br>
+**Ashis Aryal**<br>
+Roll No.:241030104<br>	
+Email: [ashisa24@iitk.ac.in](mailto:ashisa24@iitk.ac.in)<br>
+
+</td>
+</tr>
+
+<tr>
+<td markdown="span">![image1](/assets/img/Harsh-Chandrakar.jpg)<br>
+**Harsh Chandrakar**<br>
+Roll No.:241030039<br>
+Email: [harshc24@iitk.ac.in](mailto:harshc24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Himanshu-Shekhar.jpg)<br>
+**Himanshu Shekhar**<br>
+Roll No.:241030043<br>
+Email: [himanshus24@iitk.ac.in](mailto:himanshus24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Kanneboina-Kiran.jpg)<br>
+**Kanneboina Kiran**<br>
+Roll No.:241030048<br>	
+Email: [kkiran24@iitk.ac.in](mailto:kkiran24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Pitchika-Rudra-Sai-Praveen.jpg)<br>
+**Pitchika Rudra Sai Praveen**<br>
+Roll No.:241030057<br>
+Email: [pitchikar24@iitk.ac.in](mailto:pitchikar24@iitk.ac.in)<br>
+
+</td>
+</tr>
+
+<tr>
+<td markdown="span">![image1](/assets/img/Shaik-Kamoosh-Baba.jpg)<br>
+**Shaik Kamoosh Baba**<br>
+Roll No.:241030072<br>	
+Email: [kamooshsb24@iitk.ac.in](mailto:kamooshsb24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Shivangi-Sinha.jpg)<br>
+**Shivangi Sinha**<br>
+Roll No.:241030078<br>
+Email: [shivangis24@iitk.ac.in](mailto:shivangis24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Utkarsh-Verma.jpg)<br>
+**Utkarsh Verma**<br>
+Roll No.:241030087<br>	
+Email: [utkarshv24@iitk.ac.in](mailto:utkarshv24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Vinayak-Gupta.jpg)<br>
+**Vinayak Gupta**<br>
+Roll No.:241030091<br>	
+Email: [vinayakg24@iitk.ac.in](mailto:vinayakg24@iitk.ac.in)<br>
+
+</td>
+</tr>
+
+<tr>
+<td markdown="span">![image1](/assets/img/Vishal-Kumar-Srivastava.jpg)<br>
+**Vishal Kumar Srivastava**<br>
+Roll No.:241030094<br>
+Email: [vishalks24@iitk.ac.in](mailto:vishalks24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Yuvraj-Singh.jpg)<br>
+**Yuvraj Singh**<br>
+Roll No.:241030098<br>
+Email: [yuvrajs24@iitk.ac.in](mailto:yuvrajs24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span"></td>
+
+</tr>
+</tbody>
+</table>
+
 ## M.S.R students in Geoinformatics Laboratory
-* * *
+
+---
+
 <table>
 <colgroup>
 <col width="33%" />
@@ -524,7 +648,8 @@ Email:[vidhyarth21@iitk.ac.in](mailto:vidhyarth21@iitk.ac.in)<br>
 </tbody>
 </table>
 
-* * *
+---
+
 <br>
 <table>
 <colgroup>
@@ -557,7 +682,8 @@ Email: [ajinrufus22@iitk.ac.in](mailto:ajinrufus22@iitk.ac.in)<br>
 </tbody>
 </table>
 
-* * *
+---
+
 <br>
 <table>
 <colgroup>
@@ -616,8 +742,49 @@ Email:[satyama23@iitk.ac.in](mailto:satyama23@iitk.ac.in)<br>
 </tbody>
 </table>
 
+---
+
+<br>
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th colspan="3">2024</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td markdown="span">![image1](/assets/img/Anurag-Basu.jpg)<br>
+**Anurag Basu**<br>
+Roll No.:241030401<br>	
+Email: [anuragb24@iitk.ac.in](mailto:anuragb24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Bishwas-Kumar.jpg)<br>
+**Bishwas Kumar**<br>
+Roll No.:241030402<br>
+Email:[bishwas24@iitk.ac.in](mailto:bishwas24@iitk.ac.in)<br>
+
+</td>
+<td markdown="span">![image1](/assets/img/Rohit-Kumawat.jpg)<br>
+**Rohit Kumawat**<br>
+Roll No.:241030403<br>
+Email:[rohitu24@iitk.ac.in](mailto:rohitu24@iitk.ac.in)<br>
+
+</td>
+</tr>
+</tbody>
+</table>
+
 ## DIIT students in Geoinformatics Laboratory
-* * *
+
+---
+
 <table>
 <colgroup>
 <col width="33%" />

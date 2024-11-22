@@ -6,8 +6,8 @@ description: students in Geoinformatics Laboratory
 
 ## Students in Geoinformatics Laboratory
 
-<p><i><small>updated as on 17-04-2024</small></i></p>
-GI Laboratory is currently home to more than 65 students, working in various areas of Geoinformatics.
+<p><i><small>updated as on 22-11-2024 by Mriganka Shekhar Barman</small></i></p>
+GI Laboratory is currently home to more than 70 students, working in various areas of Geoinformatics.
 <table>
 <colgroup>
 <col width="60%" />
@@ -25,7 +25,7 @@ GI Laboratory is currently home to more than 65 students, working in various are
 </tr>
 <tr>
 <td>M.Tech</td>
-<td>29</td>
+<td>37</td>
 </tr>
 <tr>
 <td>MSR</td>

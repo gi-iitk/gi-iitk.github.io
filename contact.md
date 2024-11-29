@@ -18,7 +18,7 @@ Phone: (+91) 0512 679 7722/7504
 
 ## Follow us on social media:
 
-<a href="https://twitter.com/GI_IITK" target="_blank">
+<a href="https://twitter.com/GI_IITK" target="_blank" style="width: 80px; height: 80px;">
   <img src="/assets/img/X.png" alt="Twitter">
 </a>
 &ensp;
@@ -31,7 +31,7 @@ Phone: (+91) 0512 679 7722/7504
 </a>
 &ensp;
 <a href="https://www.linkedin.com/company/geoinformatics-laboratory-iit-kanpur/" target="_blank">
-  <img src="/assets/img/LinkedIn_logo_initials.png" alt="LinkedIn">
+  <img src="/assets/img/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 80px; height: 80px;">
 </a>
 
 ---

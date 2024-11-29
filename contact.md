@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-description:
+description: Contact us
 ---
 
 # Contact us <br>
@@ -29,7 +29,7 @@ Phone: (+91) 0512 679 7722/7504
   <img src="/assets/img/google_scholar.png" alt="Google Scholar">
 </a>
 <a href="https://linkedin.com/GI_IITK" target="_blank">
-  <img src="/assets/img/LinkedIn_logo_initials.png" alt="LinkedIn">
+  <img src="/assets/img/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 80px; height: 80px;">
 </a>
 &ensp;
 

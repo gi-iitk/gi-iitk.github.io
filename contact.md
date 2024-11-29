@@ -28,8 +28,8 @@ Phone: (+91) 0512 679 7722/7504
 <a href="https://scholar.google.com/citations?hl=en&user=n1U-zvkAAAAJ" target="_blank">
   <img src="/assets/img/google_scholar.png" alt="Google Scholar">
 </a>
-<a href="https://linkedin.com/GI_IITK" target="_blank">
-  <img src="/assets/img/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 80px; height: 80px; left-padding: 10px;">
+<a href="https://linkedin.com/GI_IITK" target="_blank" style= "left-margin: 10px;">
+  <img src="/assets/img/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 80px; height: 80px;">
 </a>
 &ensp;
 
